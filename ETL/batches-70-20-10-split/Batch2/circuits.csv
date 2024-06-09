@@ -1,0 +1,16 @@
+circuitId,circuitRef,name,location,country,lat,lng,alt,url
+54,lemans,Le Mans,Le Mans,France,47.95,0.224231,67,http://en.wikipedia.org/wiki/Circuit_de_la_Sarthe#Bugatti_Circuit
+55,reims,Reims-Gueux,Reims,France,49.2542,3.93083,88,http://en.wikipedia.org/wiki/Reims-Gueux
+56,george,Prince George Circuit,Eastern Cape Province,South Africa,-33.0486,27.8736,15,http://en.wikipedia.org/wiki/Prince_George_Circuit
+57,zeltweg,Zeltweg,Styria,Austria,47.2039,14.7478,676,http://en.wikipedia.org/wiki/Zeltweg_Airfield
+58,aintree,Aintree,Liverpool,UK,53.4769,-2.94056,20,http://en.wikipedia.org/wiki/Aintree_Motor_Racing_Circuit
+59,boavista,Circuito da Boavista,Oporto,Portugal,41.1705,-8.67325,28,http://en.wikipedia.org/wiki/Circuito_da_Boavista
+60,riverside,Riverside International Raceway,California,USA,33.937,-117.273,470,http://en.wikipedia.org/wiki/Riverside_International_Raceway
+61,avus,AVUS,Berlin,Germany,52.4806,13.2514,53,http://en.wikipedia.org/wiki/AVUS
+62,monsanto,Monsanto Park Circuit,Lisbon,Portugal,38.7197,-9.20306,158,http://en.wikipedia.org/wiki/Monsanto_Park_Circuit
+63,sebring,Sebring International Raceway,Florida,USA,27.4547,-81.3483,18,http://en.wikipedia.org/wiki/Sebring_Raceway
+64,ain-diab,Ain Diab,Casablanca,Morocco,33.5786,-7.6875,19,http://en.wikipedia.org/wiki/Ain-Diab_Circuit
+65,pescara,Pescara Circuit,Pescara,Italy,42.475,14.1508,129,http://en.wikipedia.org/wiki/Pescara_Circuit
+66,bremgarten,Circuit Bremgarten,Bern,Switzerland,46.9589,7.40194,551,http://en.wikipedia.org/wiki/Circuit_Bremgarten
+67,pedralbes,Circuit de Pedralbes,Barcelona,Spain,41.3903,2.11667,85,http://en.wikipedia.org/wiki/Pedralbes_Circuit
+68,buddh,Buddh International Circuit,Uttar Pradesh,India,28.3487,77.5331,194,http://en.wikipedia.org/wiki/Buddh_International_Circuit

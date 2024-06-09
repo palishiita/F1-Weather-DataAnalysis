@@ -1,0 +1,942 @@
+circuitId,country,name,lat,lng,alt,location,date,time,year,locationModified,tempmax,tempmin,temp,feelslikemax,feelslikemin,feelslike,dew,humidity,precip,precipprob,precipcover,preciptype,snow,snowdepth,windgust,windspeed,winddir,sealevelpressure,cloudcover,visibility,solarradiation,solarenergy,uvindex,severerisk,conditions,description,icon,stations
+1,Australia,Albert Park Grand Prix Circuit,-37.8497,144.968,10,Melbourne,1996-03-10,\N,1996,Melbourne%20Australia,25.1,11.1,17.6,25.1,11.1,17.6,11.8,71.8,0.003,100.0,4.17,rain,,,,25.9,158.8,1020.9,8.0,18.3,,,,,Rain,Clear conditions throughout the day with morning rain.,rain,"94860099999,94898099999,94866099999,94865099999,94872099999,94864099999,94870099999"
+1,Australia,Albert Park Grand Prix Circuit,-37.8497,144.968,10,Melbourne,1997-03-09,\N,1997,Melbourne%20Australia,18.6,11.6,15.2,18.6,11.6,15.2,4.8,50.3,0.0,0.0,0.0,,,,,31.3,175.4,1019.5,67.6,20.1,,,,,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day,"94860099999,94866099999,94865099999,94872099999,94864099999,94854099999,94870099999"
+1,Australia,Albert Park Grand Prix Circuit,-37.8497,144.968,10,Melbourne,1998-03-08,\N,1998,Melbourne%20Australia,21.4,8.4,14.4,21.4,6.5,14.2,7.5,66.0,0.0,0.0,0.0,,,,,26.2,170.9,1023.4,3.4,19.4,,,,,Clear,Clear conditions throughout the day.,clear-day,"94860099999,94866099999,95867099999,94865099999,94872099999,94864099999,94870099999"
+1,Australia,Albert Park Grand Prix Circuit,-37.8497,144.968,10,Melbourne,1999-03-07 00:00:00,\N,1999,Melbourne%20Australia,19.1,14.1,16.5,19.1,14.1,16.5,10.2,68.4,0.0,0.0,0.0,,,,,25.9,201.7,1020.1,72.9,18.0,,,,,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day,"94860099999,94866099999,95867099999,94865099999,94872099999,94864099999,94870099999"
+1,Australia,Albert Park Grand Prix Circuit,-37.8497,144.968,10,Melbourne,2000-03-12 00:00:00,\N,2000,Melbourne%20Australia,28.6,16.1,21.8,28.9,16.1,21.9,16.1,71.7,0.0,0.0,0.0,,,,,19.9,186.9,1013.8,67.7,17.7,,,,,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day,"94866099999,95867099999,94865099999,94868099999,94872099999,94864099999,94870099999"
+1,Australia,Albert Park Grand Prix Circuit,-37.8497,144.968,10,Melbourne,2001-03-04,\N,2001,Melbourne%20Australia
+1,Australia,Albert Park Grand Prix Circuit,-37.8497,144.968,10,Melbourne,2002-03-03,\N,2002,Melbourne%20Australia
+1,Australia,Albert Park Grand Prix Circuit,-37.8497,144.968,10,Melbourne,2003-03-09,\N,2003,Melbourne%20Australia
+1,Australia,Albert Park Grand Prix Circuit,-37.8497,144.968,10,Melbourne,2004-03-07,\N,2004,Melbourne%20Australia
+1,Australia,Albert Park Grand Prix Circuit,-37.8497,144.968,10,Melbourne,2005-03-06,14:00:00,2005,Melbourne%20Australia
+1,Australia,Albert Park Grand Prix Circuit,-37.8497,144.968,10,Melbourne,2006-04-02,14:00:00,2006,Melbourne%20Australia
+1,Australia,Albert Park Grand Prix Circuit,-37.8497,144.968,10,Melbourne,2007-03-18,03:00:00,2007,Melbourne%20Australia
+1,Australia,Albert Park Grand Prix Circuit,-37.8497,144.968,10,Melbourne,2008-03-16,04:30:00,2008,Melbourne%20Australia
+1,Australia,Albert Park Grand Prix Circuit,-37.8497,144.968,10,Melbourne,2009-03-29,06:00:00,2009,Melbourne%20Australia
+1,Australia,Albert Park Grand Prix Circuit,-37.8497,144.968,10,Melbourne,2010-03-28,06:00:00,2010,Melbourne%20Australia
+1,Australia,Albert Park Grand Prix Circuit,-37.8497,144.968,10,Melbourne,2011-03-27,06:00:00,2011,Melbourne%20Australia
+1,Australia,Albert Park Grand Prix Circuit,-37.8497,144.968,10,Melbourne,2012-03-18,06:00:00,2012,Melbourne%20Australia
+1,Australia,Albert Park Grand Prix Circuit,-37.8497,144.968,10,Melbourne,2013-03-17,06:00:00,2013,Melbourne%20Australia
+1,Australia,Albert Park Grand Prix Circuit,-37.8497,144.968,10,Melbourne,2014-03-16,06:00:00,2014,Melbourne%20Australia
+1,Australia,Albert Park Grand Prix Circuit,-37.8497,144.968,10,Melbourne,2015-03-15,05:00:00,2015,Melbourne%20Australia
+1,Australia,Albert Park Grand Prix Circuit,-37.8497,144.968,10,Melbourne,2016-03-20,05:00:00,2016,Melbourne%20Australia
+1,Australia,Albert Park Grand Prix Circuit,-37.8497,144.968,10,Melbourne,2017-03-26,05:00:00,2017,Melbourne%20Australia
+1,Australia,Albert Park Grand Prix Circuit,-37.8497,144.968,10,Melbourne,2018-03-25,05:10:00,2018,Melbourne%20Australia
+1,Australia,Albert Park Grand Prix Circuit,-37.8497,144.968,10,Melbourne,2019-03-17,05:10:00,2019,Melbourne%20Australia
+1,Australia,Albert Park Grand Prix Circuit,-37.8497,144.968,10,Melbourne,2022-04-10,05:00:00,2022,Melbourne%20Australia
+1,Australia,Albert Park Grand Prix Circuit,-37.8497,144.968,10,Melbourne,2023-04-02,05:00:00,2023,Melbourne%20Australia
+1,Australia,Albert Park Grand Prix Circuit,-37.8497,144.968,10,Melbourne,2024-03-24,04:00:00,2024,Melbourne%20Australia
+2,Malaysia,Sepang International Circuit,2.76083,101.738,18,Kuala Lumpur,1999-10-17,\N,1999,Kuala%20Lumpur%20Malaysia
+2,Malaysia,Sepang International Circuit,2.76083,101.738,18,Kuala Lumpur,2000-10-22,\N,2000,Kuala%20Lumpur%20Malaysia
+2,Malaysia,Sepang International Circuit,2.76083,101.738,18,Kuala Lumpur,2001-03-18,\N,2001,Kuala%20Lumpur%20Malaysia
+2,Malaysia,Sepang International Circuit,2.76083,101.738,18,Kuala Lumpur,2002-03-17,\N,2002,Kuala%20Lumpur%20Malaysia
+2,Malaysia,Sepang International Circuit,2.76083,101.738,18,Kuala Lumpur,2003-03-23,\N,2003,Kuala%20Lumpur%20Malaysia
+2,Malaysia,Sepang International Circuit,2.76083,101.738,18,Kuala Lumpur,2004-03-21,\N,2004,Kuala%20Lumpur%20Malaysia
+2,Malaysia,Sepang International Circuit,2.76083,101.738,18,Kuala Lumpur,2005-03-20,15:00:00,2005,Kuala%20Lumpur%20Malaysia
+2,Malaysia,Sepang International Circuit,2.76083,101.738,18,Kuala Lumpur,2006-03-19,15:00:00,2006,Kuala%20Lumpur%20Malaysia
+2,Malaysia,Sepang International Circuit,2.76083,101.738,18,Kuala Lumpur,2007-04-08,07:00:00,2007,Kuala%20Lumpur%20Malaysia
+2,Malaysia,Sepang International Circuit,2.76083,101.738,18,Kuala Lumpur,2008-03-23,07:00:00,2008,Kuala%20Lumpur%20Malaysia
+2,Malaysia,Sepang International Circuit,2.76083,101.738,18,Kuala Lumpur,2009-04-05,09:00:00,2009,Kuala%20Lumpur%20Malaysia
+2,Malaysia,Sepang International Circuit,2.76083,101.738,18,Kuala Lumpur,2010-04-04,08:00:00,2010,Kuala%20Lumpur%20Malaysia
+2,Malaysia,Sepang International Circuit,2.76083,101.738,18,Kuala Lumpur,2011-04-10,08:00:00,2011,Kuala%20Lumpur%20Malaysia
+2,Malaysia,Sepang International Circuit,2.76083,101.738,18,Kuala Lumpur,2012-03-25,08:00:00,2012,Kuala%20Lumpur%20Malaysia
+2,Malaysia,Sepang International Circuit,2.76083,101.738,18,Kuala Lumpur,2013-03-24,08:00:00,2013,Kuala%20Lumpur%20Malaysia
+2,Malaysia,Sepang International Circuit,2.76083,101.738,18,Kuala Lumpur,2014-03-30,08:00:00,2014,Kuala%20Lumpur%20Malaysia
+2,Malaysia,Sepang International Circuit,2.76083,101.738,18,Kuala Lumpur,2015-03-29,07:00:00,2015,Kuala%20Lumpur%20Malaysia
+2,Malaysia,Sepang International Circuit,2.76083,101.738,18,Kuala Lumpur,2016-10-02,07:00:00,2016,Kuala%20Lumpur%20Malaysia
+2,Malaysia,Sepang International Circuit,2.76083,101.738,18,Kuala Lumpur,2017-10-01,07:00:00,2017,Kuala%20Lumpur%20Malaysia
+3,Bahrain,Bahrain International Circuit,26.0325,50.5106,7,Sakhir,2004-04-04,\N,2004,Sakhir%20Bahrain
+3,Bahrain,Bahrain International Circuit,26.0325,50.5106,7,Sakhir,2005-04-03,14:30:00,2005,Sakhir%20Bahrain
+3,Bahrain,Bahrain International Circuit,26.0325,50.5106,7,Sakhir,2006-03-12,14:30:00,2006,Sakhir%20Bahrain
+3,Bahrain,Bahrain International Circuit,26.0325,50.5106,7,Sakhir,2007-04-15,11:30:00,2007,Sakhir%20Bahrain
+3,Bahrain,Bahrain International Circuit,26.0325,50.5106,7,Sakhir,2008-04-06,11:30:00,2008,Sakhir%20Bahrain
+3,Bahrain,Bahrain International Circuit,26.0325,50.5106,7,Sakhir,2009-04-26,12:00:00,2009,Sakhir%20Bahrain
+3,Bahrain,Bahrain International Circuit,26.0325,50.5106,7,Sakhir,2010-03-14,12:00:00,2010,Sakhir%20Bahrain
+3,Bahrain,Bahrain International Circuit,26.0325,50.5106,7,Sakhir,2012-04-22,12:00:00,2012,Sakhir%20Bahrain
+3,Bahrain,Bahrain International Circuit,26.0325,50.5106,7,Sakhir,2013-04-21,12:00:00,2013,Sakhir%20Bahrain
+3,Bahrain,Bahrain International Circuit,26.0325,50.5106,7,Sakhir,2014-04-06,15:00:00,2014,Sakhir%20Bahrain
+3,Bahrain,Bahrain International Circuit,26.0325,50.5106,7,Sakhir,2015-04-19,15:00:00,2015,Sakhir%20Bahrain
+3,Bahrain,Bahrain International Circuit,26.0325,50.5106,7,Sakhir,2016-04-03,15:00:00,2016,Sakhir%20Bahrain
+3,Bahrain,Bahrain International Circuit,26.0325,50.5106,7,Sakhir,2017-04-16,15:00:00,2017,Sakhir%20Bahrain
+3,Bahrain,Bahrain International Circuit,26.0325,50.5106,7,Sakhir,2018-04-08,15:10:00,2018,Sakhir%20Bahrain
+3,Bahrain,Bahrain International Circuit,26.0325,50.5106,7,Sakhir,2019-03-31,15:10:00,2019,Sakhir%20Bahrain
+3,Bahrain,Bahrain International Circuit,26.0325,50.5106,7,Sakhir,2020-11-29,14:10:00,2020,Sakhir%20Bahrain
+3,Bahrain,Bahrain International Circuit,26.0325,50.5106,7,Sakhir,2020-12-06,17:10:00,2020,Sakhir%20Bahrain
+3,Bahrain,Bahrain International Circuit,26.0325,50.5106,7,Sakhir,2021-03-28,15:00:00,2021,Sakhir%20Bahrain
+3,Bahrain,Bahrain International Circuit,26.0325,50.5106,7,Sakhir,2022-03-20,15:00:00,2022,Sakhir%20Bahrain
+3,Bahrain,Bahrain International Circuit,26.0325,50.5106,7,Sakhir,2023-03-05,15:00:00,2023,Sakhir%20Bahrain
+3,Bahrain,Bahrain International Circuit,26.0325,50.5106,7,Sakhir,2024-03-02,15:00:00,2024,Sakhir%20Bahrain
+4,Spain,Circuit de Barcelona-Catalunya,41.57,2.26111,109,Montmeló,1991-09-29,\N,1991,Montmeló%20Spain
+4,Spain,Circuit de Barcelona-Catalunya,41.57,2.26111,109,Montmeló,1992-05-03,\N,1992,Montmeló%20Spain
+4,Spain,Circuit de Barcelona-Catalunya,41.57,2.26111,109,Montmeló,1993-05-09,\N,1993,Montmeló%20Spain
+4,Spain,Circuit de Barcelona-Catalunya,41.57,2.26111,109,Montmeló,1994-05-29,\N,1994,Montmeló%20Spain
+4,Spain,Circuit de Barcelona-Catalunya,41.57,2.26111,109,Montmeló,1995-05-14,\N,1995,Montmeló%20Spain
+4,Spain,Circuit de Barcelona-Catalunya,41.57,2.26111,109,Montmeló,1996-06-02,\N,1996,Montmeló%20Spain
+4,Spain,Circuit de Barcelona-Catalunya,41.57,2.26111,109,Montmeló,1997-05-25,\N,1997,Montmeló%20Spain
+4,Spain,Circuit de Barcelona-Catalunya,41.57,2.26111,109,Montmeló,1998-05-10,\N,1998,Montmeló%20Spain
+4,Spain,Circuit de Barcelona-Catalunya,41.57,2.26111,109,Montmeló,1999-05-30,\N,1999,Montmeló%20Spain
+4,Spain,Circuit de Barcelona-Catalunya,41.57,2.26111,109,Montmeló,2000-05-07,\N,2000,Montmeló%20Spain
+4,Spain,Circuit de Barcelona-Catalunya,41.57,2.26111,109,Montmeló,2001-04-29,\N,2001,Montmeló%20Spain
+4,Spain,Circuit de Barcelona-Catalunya,41.57,2.26111,109,Montmeló,2002-04-28,\N,2002,Montmeló%20Spain
+4,Spain,Circuit de Barcelona-Catalunya,41.57,2.26111,109,Montmeló,2003-05-04,\N,2003,Montmeló%20Spain
+4,Spain,Circuit de Barcelona-Catalunya,41.57,2.26111,109,Montmeló,2004-05-09,\N,2004,Montmeló%20Spain
+4,Spain,Circuit de Barcelona-Catalunya,41.57,2.26111,109,Montmeló,2005-05-08,14:00:00,2005,Montmeló%20Spain
+4,Spain,Circuit de Barcelona-Catalunya,41.57,2.26111,109,Montmeló,2006-05-14,14:00:00,2006,Montmeló%20Spain
+4,Spain,Circuit de Barcelona-Catalunya,41.57,2.26111,109,Montmeló,2007-05-13,12:00:00,2007,Montmeló%20Spain
+4,Spain,Circuit de Barcelona-Catalunya,41.57,2.26111,109,Montmeló,2008-04-27,12:00:00,2008,Montmeló%20Spain
+4,Spain,Circuit de Barcelona-Catalunya,41.57,2.26111,109,Montmeló,2009-05-10,12:00:00,2009,Montmeló%20Spain
+4,Spain,Circuit de Barcelona-Catalunya,41.57,2.26111,109,Montmeló,2010-05-09,12:00:00,2010,Montmeló%20Spain
+4,Spain,Circuit de Barcelona-Catalunya,41.57,2.26111,109,Montmeló,2011-05-22,12:00:00,2011,Montmeló%20Spain
+4,Spain,Circuit de Barcelona-Catalunya,41.57,2.26111,109,Montmeló,2012-05-13,12:00:00,2012,Montmeló%20Spain
+4,Spain,Circuit de Barcelona-Catalunya,41.57,2.26111,109,Montmeló,2013-05-12,12:00:00,2013,Montmeló%20Spain
+4,Spain,Circuit de Barcelona-Catalunya,41.57,2.26111,109,Montmeló,2014-05-11,12:00:00,2014,Montmeló%20Spain
+4,Spain,Circuit de Barcelona-Catalunya,41.57,2.26111,109,Montmeló,2015-05-10,12:00:00,2015,Montmeló%20Spain
+4,Spain,Circuit de Barcelona-Catalunya,41.57,2.26111,109,Montmeló,2016-05-15,12:00:00,2016,Montmeló%20Spain
+4,Spain,Circuit de Barcelona-Catalunya,41.57,2.26111,109,Montmeló,2017-05-14,12:00:00,2017,Montmeló%20Spain
+4,Spain,Circuit de Barcelona-Catalunya,41.57,2.26111,109,Montmeló,2018-05-13,13:10:00,2018,Montmeló%20Spain
+4,Spain,Circuit de Barcelona-Catalunya,41.57,2.26111,109,Montmeló,2019-05-12,13:10:00,2019,Montmeló%20Spain
+4,Spain,Circuit de Barcelona-Catalunya,41.57,2.26111,109,Montmeló,2020-08-16,13:10:00,2020,Montmeló%20Spain
+4,Spain,Circuit de Barcelona-Catalunya,41.57,2.26111,109,Montmeló,2021-05-09,13:00:00,2021,Montmeló%20Spain
+4,Spain,Circuit de Barcelona-Catalunya,41.57,2.26111,109,Montmeló,2022-05-22,13:00:00,2022,Montmeló%20Spain
+4,Spain,Circuit de Barcelona-Catalunya,41.57,2.26111,109,Montmeló,2023-06-04,13:00:00,2023,Montmeló%20Spain
+4,Spain,Circuit de Barcelona-Catalunya,41.57,2.26111,109,Montmeló,2024-06-23,13:00:00,2024,Montmeló%20Spain
+5,Turkey,Istanbul Park,40.9517,29.405,130,Istanbul,2005-08-21,15:00:00,2005,Istanbul%20Turkey
+5,Turkey,Istanbul Park,40.9517,29.405,130,Istanbul,2006-08-27,15:00:00,2006,Istanbul%20Turkey
+5,Turkey,Istanbul Park,40.9517,29.405,130,Istanbul,2007-08-26,12:00:00,2007,Istanbul%20Turkey
+5,Turkey,Istanbul Park,40.9517,29.405,130,Istanbul,2008-05-11,12:00:00,2008,Istanbul%20Turkey
+5,Turkey,Istanbul Park,40.9517,29.405,130,Istanbul,2009-06-07,12:00:00,2009,Istanbul%20Turkey
+5,Turkey,Istanbul Park,40.9517,29.405,130,Istanbul,2010-05-30,11:00:00,2010,Istanbul%20Turkey
+5,Turkey,Istanbul Park,40.9517,29.405,130,Istanbul,2011-05-08,12:00:00,2011,Istanbul%20Turkey
+5,Turkey,Istanbul Park,40.9517,29.405,130,Istanbul,2020-11-15,10:10:00,2020,Istanbul%20Turkey
+5,Turkey,Istanbul Park,40.9517,29.405,130,Istanbul,2021-10-10,12:00:00,2021,Istanbul%20Turkey
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,1970-05-10,\N,1970,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,1971-05-23,\N,1971,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,1972-05-14,\N,1972,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,1973-06-03,\N,1973,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,1974-05-26,\N,1974,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,1975-05-11,\N,1975,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,1976-05-30,\N,1976,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,1977-05-22,\N,1977,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,1978-05-07,\N,1978,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,1979-05-27,\N,1979,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,1980-05-18,\N,1980,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,1981-05-31,\N,1981,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,1982-05-23,\N,1982,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,1983-05-15,\N,1983,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,1984-06-03,\N,1984,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,1985-05-19,\N,1985,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,1986-05-11,\N,1986,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,1987-05-31,\N,1987,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,1988-05-15,\N,1988,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,1989-05-07,\N,1989,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,1990-05-27,\N,1990,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,1991-05-12,\N,1991,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,1992-05-31,\N,1992,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,1993-05-23,\N,1993,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,1994-05-15,\N,1994,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,1995-05-28,\N,1995,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,1996-05-19,\N,1996,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,1997-05-11,\N,1997,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,1998-05-24,\N,1998,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,1999-05-16,\N,1999,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,2000-06-04,\N,2000,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,2001-05-27,\N,2001,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,2002-05-26,\N,2002,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,2003-06-01,\N,2003,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,2004-05-23,\N,2004,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,2005-05-22,14:00:00,2005,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,2006-05-28,14:00:00,2006,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,2007-05-27,12:00:00,2007,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,2008-05-25,12:00:00,2008,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,2009-05-24,12:00:00,2009,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,2010-05-16,12:00:00,2010,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,2011-05-29,12:00:00,2011,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,2012-05-27,12:00:00,2012,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,2013-05-26,12:00:00,2013,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,2014-05-25,12:00:00,2014,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,2015-05-24,12:00:00,2015,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,2016-05-29,12:00:00,2016,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,2017-05-28,12:00:00,2017,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,2018-05-27,13:10:00,2018,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,2019-05-26,13:10:00,2019,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,2021-05-23,13:00:00,2021,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,2022-05-29,13:00:00,2022,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,2023-05-28,13:00:00,2023,Monte-Carlo%20Monaco
+6,Monaco,Circuit de Monaco,43.7347,7.42056,7,Monte-Carlo,2024-05-26,13:00:00,2024,Monte-Carlo%20Monaco
+7,Canada,Circuit Gilles Villeneuve,45.5,-73.5228,13,Montreal,1978-10-08,\N,1978,Montreal%20Canada
+7,Canada,Circuit Gilles Villeneuve,45.5,-73.5228,13,Montreal,1979-09-30,\N,1979,Montreal%20Canada
+7,Canada,Circuit Gilles Villeneuve,45.5,-73.5228,13,Montreal,1980-09-28,\N,1980,Montreal%20Canada
+7,Canada,Circuit Gilles Villeneuve,45.5,-73.5228,13,Montreal,1981-09-27,\N,1981,Montreal%20Canada
+7,Canada,Circuit Gilles Villeneuve,45.5,-73.5228,13,Montreal,1982-06-13,\N,1982,Montreal%20Canada
+7,Canada,Circuit Gilles Villeneuve,45.5,-73.5228,13,Montreal,1983-06-12,\N,1983,Montreal%20Canada
+7,Canada,Circuit Gilles Villeneuve,45.5,-73.5228,13,Montreal,1984-06-17,\N,1984,Montreal%20Canada
+7,Canada,Circuit Gilles Villeneuve,45.5,-73.5228,13,Montreal,1985-06-16,\N,1985,Montreal%20Canada
+7,Canada,Circuit Gilles Villeneuve,45.5,-73.5228,13,Montreal,1986-06-15,\N,1986,Montreal%20Canada
+7,Canada,Circuit Gilles Villeneuve,45.5,-73.5228,13,Montreal,1988-06-12,\N,1988,Montreal%20Canada
+7,Canada,Circuit Gilles Villeneuve,45.5,-73.5228,13,Montreal,1989-06-18,\N,1989,Montreal%20Canada
+7,Canada,Circuit Gilles Villeneuve,45.5,-73.5228,13,Montreal,1990-06-10,\N,1990,Montreal%20Canada
+7,Canada,Circuit Gilles Villeneuve,45.5,-73.5228,13,Montreal,1991-06-02,\N,1991,Montreal%20Canada
+7,Canada,Circuit Gilles Villeneuve,45.5,-73.5228,13,Montreal,1992-06-14,\N,1992,Montreal%20Canada
+7,Canada,Circuit Gilles Villeneuve,45.5,-73.5228,13,Montreal,1993-06-13,\N,1993,Montreal%20Canada
+7,Canada,Circuit Gilles Villeneuve,45.5,-73.5228,13,Montreal,1994-06-12,\N,1994,Montreal%20Canada
+7,Canada,Circuit Gilles Villeneuve,45.5,-73.5228,13,Montreal,1995-06-11,\N,1995,Montreal%20Canada
+7,Canada,Circuit Gilles Villeneuve,45.5,-73.5228,13,Montreal,1996-06-16,\N,1996,Montreal%20Canada
+7,Canada,Circuit Gilles Villeneuve,45.5,-73.5228,13,Montreal,1997-06-15,\N,1997,Montreal%20Canada
+7,Canada,Circuit Gilles Villeneuve,45.5,-73.5228,13,Montreal,1998-06-07,\N,1998,Montreal%20Canada
+7,Canada,Circuit Gilles Villeneuve,45.5,-73.5228,13,Montreal,1999-06-13,\N,1999,Montreal%20Canada
+7,Canada,Circuit Gilles Villeneuve,45.5,-73.5228,13,Montreal,2000-06-18,\N,2000,Montreal%20Canada
+7,Canada,Circuit Gilles Villeneuve,45.5,-73.5228,13,Montreal,2001-06-10,\N,2001,Montreal%20Canada
+7,Canada,Circuit Gilles Villeneuve,45.5,-73.5228,13,Montreal,2002-06-09,\N,2002,Montreal%20Canada
+7,Canada,Circuit Gilles Villeneuve,45.5,-73.5228,13,Montreal,2003-06-15,\N,2003,Montreal%20Canada
+7,Canada,Circuit Gilles Villeneuve,45.5,-73.5228,13,Montreal,2004-06-13,\N,2004,Montreal%20Canada
+7,Canada,Circuit Gilles Villeneuve,45.5,-73.5228,13,Montreal,2005-06-12,13:00:00,2005,Montreal%20Canada
+7,Canada,Circuit Gilles Villeneuve,45.5,-73.5228,13,Montreal,2006-06-25,13:00:00,2006,Montreal%20Canada
+7,Canada,Circuit Gilles Villeneuve,45.5,-73.5228,13,Montreal,2007-06-10,17:00:00,2007,Montreal%20Canada
+7,Canada,Circuit Gilles Villeneuve,45.5,-73.5228,13,Montreal,2008-06-08,17:00:00,2008,Montreal%20Canada
+7,Canada,Circuit Gilles Villeneuve,45.5,-73.5228,13,Montreal,2010-06-13,16:00:00,2010,Montreal%20Canada
+7,Canada,Circuit Gilles Villeneuve,45.5,-73.5228,13,Montreal,2011-06-12,17:00:00,2011,Montreal%20Canada
+7,Canada,Circuit Gilles Villeneuve,45.5,-73.5228,13,Montreal,2012-06-10,18:00:00,2012,Montreal%20Canada
+7,Canada,Circuit Gilles Villeneuve,45.5,-73.5228,13,Montreal,2013-06-09,18:00:00,2013,Montreal%20Canada
+7,Canada,Circuit Gilles Villeneuve,45.5,-73.5228,13,Montreal,2014-06-08,18:00:00,2014,Montreal%20Canada
+7,Canada,Circuit Gilles Villeneuve,45.5,-73.5228,13,Montreal,2015-06-07,18:00:00,2015,Montreal%20Canada
+7,Canada,Circuit Gilles Villeneuve,45.5,-73.5228,13,Montreal,2016-06-12,18:00:00,2016,Montreal%20Canada
+7,Canada,Circuit Gilles Villeneuve,45.5,-73.5228,13,Montreal,2017-06-11,18:00:00,2017,Montreal%20Canada
+7,Canada,Circuit Gilles Villeneuve,45.5,-73.5228,13,Montreal,2018-06-10,18:10:00,2018,Montreal%20Canada
+7,Canada,Circuit Gilles Villeneuve,45.5,-73.5228,13,Montreal,2019-06-09,18:10:00,2019,Montreal%20Canada
+7,Canada,Circuit Gilles Villeneuve,45.5,-73.5228,13,Montreal,2022-06-19,18:00:00,2022,Montreal%20Canada
+7,Canada,Circuit Gilles Villeneuve,45.5,-73.5228,13,Montreal,2023-06-18,18:00:00,2023,Montreal%20Canada
+7,Canada,Circuit Gilles Villeneuve,45.5,-73.5228,13,Montreal,2024-06-09,18:00:00,2024,Montreal%20Canada
+8,France,Circuit de Nevers Magny-Cours,46.8642,3.16361,228,Magny Cours,1991-07-07,\N,1991,Magny%20Cours%20France
+8,France,Circuit de Nevers Magny-Cours,46.8642,3.16361,228,Magny Cours,1992-07-05,\N,1992,Magny%20Cours%20France
+8,France,Circuit de Nevers Magny-Cours,46.8642,3.16361,228,Magny Cours,1993-07-04,\N,1993,Magny%20Cours%20France
+8,France,Circuit de Nevers Magny-Cours,46.8642,3.16361,228,Magny Cours,1994-07-03,\N,1994,Magny%20Cours%20France
+8,France,Circuit de Nevers Magny-Cours,46.8642,3.16361,228,Magny Cours,1995-07-02,\N,1995,Magny%20Cours%20France
+8,France,Circuit de Nevers Magny-Cours,46.8642,3.16361,228,Magny Cours,1996-06-30,\N,1996,Magny%20Cours%20France
+8,France,Circuit de Nevers Magny-Cours,46.8642,3.16361,228,Magny Cours,1997-06-29,\N,1997,Magny%20Cours%20France
+8,France,Circuit de Nevers Magny-Cours,46.8642,3.16361,228,Magny Cours,1998-06-28,\N,1998,Magny%20Cours%20France
+8,France,Circuit de Nevers Magny-Cours,46.8642,3.16361,228,Magny Cours,1999-06-27,\N,1999,Magny%20Cours%20France
+8,France,Circuit de Nevers Magny-Cours,46.8642,3.16361,228,Magny Cours,2000-07-02,\N,2000,Magny%20Cours%20France
+8,France,Circuit de Nevers Magny-Cours,46.8642,3.16361,228,Magny Cours,2001-07-01,\N,2001,Magny%20Cours%20France
+8,France,Circuit de Nevers Magny-Cours,46.8642,3.16361,228,Magny Cours,2002-07-21,\N,2002,Magny%20Cours%20France
+8,France,Circuit de Nevers Magny-Cours,46.8642,3.16361,228,Magny Cours,2003-07-06,\N,2003,Magny%20Cours%20France
+8,France,Circuit de Nevers Magny-Cours,46.8642,3.16361,228,Magny Cours,2004-07-04,\N,2004,Magny%20Cours%20France
+8,France,Circuit de Nevers Magny-Cours,46.8642,3.16361,228,Magny Cours,2005-07-03,14:00:00,2005,Magny%20Cours%20France
+8,France,Circuit de Nevers Magny-Cours,46.8642,3.16361,228,Magny Cours,2006-07-16,14:00:00,2006,Magny%20Cours%20France
+8,France,Circuit de Nevers Magny-Cours,46.8642,3.16361,228,Magny Cours,2007-07-01,12:00:00,2007,Magny%20Cours%20France
+8,France,Circuit de Nevers Magny-Cours,46.8642,3.16361,228,Magny Cours,2008-06-22,12:00:00,2008,Magny%20Cours%20France
+9,UK,Silverstone Circuit,52.0786,-1.01694,153,Silverstone,1971-07-17,\N,1971,Silverstone%20UK
+9,UK,Silverstone Circuit,52.0786,-1.01694,153,Silverstone,1973-07-14,\N,1973,Silverstone%20UK
+9,UK,Silverstone Circuit,52.0786,-1.01694,153,Silverstone,1975-07-19,\N,1975,Silverstone%20UK
+9,UK,Silverstone Circuit,52.0786,-1.01694,153,Silverstone,1977-07-16,\N,1977,Silverstone%20UK
+9,UK,Silverstone Circuit,52.0786,-1.01694,153,Silverstone,1979-07-14,\N,1979,Silverstone%20UK
+9,UK,Silverstone Circuit,52.0786,-1.01694,153,Silverstone,1981-07-18,\N,1981,Silverstone%20UK
+9,UK,Silverstone Circuit,52.0786,-1.01694,153,Silverstone,1983-07-16,\N,1983,Silverstone%20UK
+9,UK,Silverstone Circuit,52.0786,-1.01694,153,Silverstone,1985-07-21,\N,1985,Silverstone%20UK
+9,UK,Silverstone Circuit,52.0786,-1.01694,153,Silverstone,1987-07-12,\N,1987,Silverstone%20UK
+9,UK,Silverstone Circuit,52.0786,-1.01694,153,Silverstone,1988-07-10,\N,1988,Silverstone%20UK
+9,UK,Silverstone Circuit,52.0786,-1.01694,153,Silverstone,1989-07-16,\N,1989,Silverstone%20UK
+9,UK,Silverstone Circuit,52.0786,-1.01694,153,Silverstone,1990-07-15,\N,1990,Silverstone%20UK
+9,UK,Silverstone Circuit,52.0786,-1.01694,153,Silverstone,1991-07-14,\N,1991,Silverstone%20UK
+9,UK,Silverstone Circuit,52.0786,-1.01694,153,Silverstone,1992-07-12,\N,1992,Silverstone%20UK
+9,UK,Silverstone Circuit,52.0786,-1.01694,153,Silverstone,1993-07-11,\N,1993,Silverstone%20UK
+9,UK,Silverstone Circuit,52.0786,-1.01694,153,Silverstone,1994-07-10,\N,1994,Silverstone%20UK
+9,UK,Silverstone Circuit,52.0786,-1.01694,153,Silverstone,1995-07-16,\N,1995,Silverstone%20UK
+9,UK,Silverstone Circuit,52.0786,-1.01694,153,Silverstone,1996-07-14,\N,1996,Silverstone%20UK
+9,UK,Silverstone Circuit,52.0786,-1.01694,153,Silverstone,1997-07-13,\N,1997,Silverstone%20UK
+9,UK,Silverstone Circuit,52.0786,-1.01694,153,Silverstone,1998-07-12,\N,1998,Silverstone%20UK
+9,UK,Silverstone Circuit,52.0786,-1.01694,153,Silverstone,1999-07-11,\N,1999,Silverstone%20UK
+9,UK,Silverstone Circuit,52.0786,-1.01694,153,Silverstone,2000-04-23,\N,2000,Silverstone%20UK
+9,UK,Silverstone Circuit,52.0786,-1.01694,153,Silverstone,2001-07-15,\N,2001,Silverstone%20UK
+9,UK,Silverstone Circuit,52.0786,-1.01694,153,Silverstone,2002-07-07,\N,2002,Silverstone%20UK
+9,UK,Silverstone Circuit,52.0786,-1.01694,153,Silverstone,2003-07-20,\N,2003,Silverstone%20UK
+9,UK,Silverstone Circuit,52.0786,-1.01694,153,Silverstone,2004-07-11,\N,2004,Silverstone%20UK
+9,UK,Silverstone Circuit,52.0786,-1.01694,153,Silverstone,2005-07-10,14:00:00,2005,Silverstone%20UK
+9,UK,Silverstone Circuit,52.0786,-1.01694,153,Silverstone,2006-06-11,12:00:00,2006,Silverstone%20UK
+9,UK,Silverstone Circuit,52.0786,-1.01694,153,Silverstone,2007-07-08,12:00:00,2007,Silverstone%20UK
+9,UK,Silverstone Circuit,52.0786,-1.01694,153,Silverstone,2008-07-06,12:00:00,2008,Silverstone%20UK
+9,UK,Silverstone Circuit,52.0786,-1.01694,153,Silverstone,2009-06-21,12:00:00,2009,Silverstone%20UK
+9,UK,Silverstone Circuit,52.0786,-1.01694,153,Silverstone,2010-07-11,12:00:00,2010,Silverstone%20UK
+9,UK,Silverstone Circuit,52.0786,-1.01694,153,Silverstone,2011-07-10,12:00:00,2011,Silverstone%20UK
+9,UK,Silverstone Circuit,52.0786,-1.01694,153,Silverstone,2012-07-08,12:00:00,2012,Silverstone%20UK
+9,UK,Silverstone Circuit,52.0786,-1.01694,153,Silverstone,2013-06-30,12:00:00,2013,Silverstone%20UK
+9,UK,Silverstone Circuit,52.0786,-1.01694,153,Silverstone,2014-07-06,12:00:00,2014,Silverstone%20UK
+9,UK,Silverstone Circuit,52.0786,-1.01694,153,Silverstone,2015-07-05,12:00:00,2015,Silverstone%20UK
+9,UK,Silverstone Circuit,52.0786,-1.01694,153,Silverstone,2016-07-10,12:00:00,2016,Silverstone%20UK
+9,UK,Silverstone Circuit,52.0786,-1.01694,153,Silverstone,2017-07-16,12:00:00,2017,Silverstone%20UK
+9,UK,Silverstone Circuit,52.0786,-1.01694,153,Silverstone,2018-07-08,13:10:00,2018,Silverstone%20UK
+9,UK,Silverstone Circuit,52.0786,-1.01694,153,Silverstone,2019-07-14,13:10:00,2019,Silverstone%20UK
+9,UK,Silverstone Circuit,52.0786,-1.01694,153,Silverstone,2020-08-02,13:10:00,2020,Silverstone%20UK
+9,UK,Silverstone Circuit,52.0786,-1.01694,153,Silverstone,2020-08-09,13:10:00,2020,Silverstone%20UK
+9,UK,Silverstone Circuit,52.0786,-1.01694,153,Silverstone,2021-07-18,14:00:00,2021,Silverstone%20UK
+9,UK,Silverstone Circuit,52.0786,-1.01694,153,Silverstone,2022-07-03,14:00:00,2022,Silverstone%20UK
+9,UK,Silverstone Circuit,52.0786,-1.01694,153,Silverstone,2023-07-09,14:00:00,2023,Silverstone%20UK
+9,UK,Silverstone Circuit,52.0786,-1.01694,153,Silverstone,2024-07-07,14:00:00,2024,Silverstone%20UK
+10,Germany,Hockenheimring,49.3278,8.56583,103,Hockenheim,1970-08-02,\N,1970,Hockenheim%20Germany
+10,Germany,Hockenheimring,49.3278,8.56583,103,Hockenheim,1977-07-31,\N,1977,Hockenheim%20Germany
+10,Germany,Hockenheimring,49.3278,8.56583,103,Hockenheim,1978-07-30,\N,1978,Hockenheim%20Germany
+10,Germany,Hockenheimring,49.3278,8.56583,103,Hockenheim,1979-07-29,\N,1979,Hockenheim%20Germany
+10,Germany,Hockenheimring,49.3278,8.56583,103,Hockenheim,1980-08-10,\N,1980,Hockenheim%20Germany
+10,Germany,Hockenheimring,49.3278,8.56583,103,Hockenheim,1981-08-02,\N,1981,Hockenheim%20Germany
+10,Germany,Hockenheimring,49.3278,8.56583,103,Hockenheim,1982-08-08,\N,1982,Hockenheim%20Germany
+10,Germany,Hockenheimring,49.3278,8.56583,103,Hockenheim,1983-08-07,\N,1983,Hockenheim%20Germany
+10,Germany,Hockenheimring,49.3278,8.56583,103,Hockenheim,1984-08-05,\N,1984,Hockenheim%20Germany
+10,Germany,Hockenheimring,49.3278,8.56583,103,Hockenheim,1986-07-27,\N,1986,Hockenheim%20Germany
+10,Germany,Hockenheimring,49.3278,8.56583,103,Hockenheim,1987-07-26,\N,1987,Hockenheim%20Germany
+10,Germany,Hockenheimring,49.3278,8.56583,103,Hockenheim,1988-07-24,\N,1988,Hockenheim%20Germany
+10,Germany,Hockenheimring,49.3278,8.56583,103,Hockenheim,1989-07-30,\N,1989,Hockenheim%20Germany
+10,Germany,Hockenheimring,49.3278,8.56583,103,Hockenheim,1990-07-29,\N,1990,Hockenheim%20Germany
+10,Germany,Hockenheimring,49.3278,8.56583,103,Hockenheim,1991-07-28,\N,1991,Hockenheim%20Germany
+10,Germany,Hockenheimring,49.3278,8.56583,103,Hockenheim,1992-07-26,\N,1992,Hockenheim%20Germany
+10,Germany,Hockenheimring,49.3278,8.56583,103,Hockenheim,1993-07-25,\N,1993,Hockenheim%20Germany
+10,Germany,Hockenheimring,49.3278,8.56583,103,Hockenheim,1994-07-31,\N,1994,Hockenheim%20Germany
+10,Germany,Hockenheimring,49.3278,8.56583,103,Hockenheim,1995-07-30,\N,1995,Hockenheim%20Germany
+10,Germany,Hockenheimring,49.3278,8.56583,103,Hockenheim,1996-07-28,\N,1996,Hockenheim%20Germany
+10,Germany,Hockenheimring,49.3278,8.56583,103,Hockenheim,1997-07-27,\N,1997,Hockenheim%20Germany
+10,Germany,Hockenheimring,49.3278,8.56583,103,Hockenheim,1998-08-02,\N,1998,Hockenheim%20Germany
+10,Germany,Hockenheimring,49.3278,8.56583,103,Hockenheim,1999-08-01,\N,1999,Hockenheim%20Germany
+10,Germany,Hockenheimring,49.3278,8.56583,103,Hockenheim,2000-07-30,\N,2000,Hockenheim%20Germany
+10,Germany,Hockenheimring,49.3278,8.56583,103,Hockenheim,2001-07-29,\N,2001,Hockenheim%20Germany
+10,Germany,Hockenheimring,49.3278,8.56583,103,Hockenheim,2002-07-28,\N,2002,Hockenheim%20Germany
+10,Germany,Hockenheimring,49.3278,8.56583,103,Hockenheim,2003-08-03,\N,2003,Hockenheim%20Germany
+10,Germany,Hockenheimring,49.3278,8.56583,103,Hockenheim,2004-07-25,\N,2004,Hockenheim%20Germany
+10,Germany,Hockenheimring,49.3278,8.56583,103,Hockenheim,2005-07-24,14:00:00,2005,Hockenheim%20Germany
+10,Germany,Hockenheimring,49.3278,8.56583,103,Hockenheim,2006-07-30,14:00:00,2006,Hockenheim%20Germany
+10,Germany,Hockenheimring,49.3278,8.56583,103,Hockenheim,2008-07-20,12:00:00,2008,Hockenheim%20Germany
+10,Germany,Hockenheimring,49.3278,8.56583,103,Hockenheim,2010-07-25,12:00:00,2010,Hockenheim%20Germany
+10,Germany,Hockenheimring,49.3278,8.56583,103,Hockenheim,2012-07-22,12:00:00,2012,Hockenheim%20Germany
+10,Germany,Hockenheimring,49.3278,8.56583,103,Hockenheim,2014-07-20,12:00:00,2014,Hockenheim%20Germany
+10,Germany,Hockenheimring,49.3278,8.56583,103,Hockenheim,2016-07-31,12:00:00,2016,Hockenheim%20Germany
+10,Germany,Hockenheimring,49.3278,8.56583,103,Hockenheim,2018-07-22,13:10:00,2018,Hockenheim%20Germany
+10,Germany,Hockenheimring,49.3278,8.56583,103,Hockenheim,2019-07-28,13:10:00,2019,Hockenheim%20Germany
+11,Hungary,Hungaroring,47.5789,19.2486,264,Budapest,1986-08-10,\N,1986,Budapest%20Hungary
+11,Hungary,Hungaroring,47.5789,19.2486,264,Budapest,1987-08-09,\N,1987,Budapest%20Hungary
+11,Hungary,Hungaroring,47.5789,19.2486,264,Budapest,1988-08-07,\N,1988,Budapest%20Hungary
+11,Hungary,Hungaroring,47.5789,19.2486,264,Budapest,1989-08-13,\N,1989,Budapest%20Hungary
+11,Hungary,Hungaroring,47.5789,19.2486,264,Budapest,1990-08-12,\N,1990,Budapest%20Hungary
+11,Hungary,Hungaroring,47.5789,19.2486,264,Budapest,1991-08-11,\N,1991,Budapest%20Hungary
+11,Hungary,Hungaroring,47.5789,19.2486,264,Budapest,1992-08-16,\N,1992,Budapest%20Hungary
+11,Hungary,Hungaroring,47.5789,19.2486,264,Budapest,1993-08-15,\N,1993,Budapest%20Hungary
+11,Hungary,Hungaroring,47.5789,19.2486,264,Budapest,1994-08-14,\N,1994,Budapest%20Hungary
+11,Hungary,Hungaroring,47.5789,19.2486,264,Budapest,1995-08-13,\N,1995,Budapest%20Hungary
+11,Hungary,Hungaroring,47.5789,19.2486,264,Budapest,1996-08-11,\N,1996,Budapest%20Hungary
+11,Hungary,Hungaroring,47.5789,19.2486,264,Budapest,1997-08-10,\N,1997,Budapest%20Hungary
+11,Hungary,Hungaroring,47.5789,19.2486,264,Budapest,1998-08-16,\N,1998,Budapest%20Hungary
+11,Hungary,Hungaroring,47.5789,19.2486,264,Budapest,1999-08-15,\N,1999,Budapest%20Hungary
+11,Hungary,Hungaroring,47.5789,19.2486,264,Budapest,2000-08-13,\N,2000,Budapest%20Hungary
+11,Hungary,Hungaroring,47.5789,19.2486,264,Budapest,2001-08-19,\N,2001,Budapest%20Hungary
+11,Hungary,Hungaroring,47.5789,19.2486,264,Budapest,2002-08-18,\N,2002,Budapest%20Hungary
+11,Hungary,Hungaroring,47.5789,19.2486,264,Budapest,2003-08-24,\N,2003,Budapest%20Hungary
+11,Hungary,Hungaroring,47.5789,19.2486,264,Budapest,2004-08-15,\N,2004,Budapest%20Hungary
+11,Hungary,Hungaroring,47.5789,19.2486,264,Budapest,2005-07-31,14:00:00,2005,Budapest%20Hungary
+11,Hungary,Hungaroring,47.5789,19.2486,264,Budapest,2006-08-06,14:00:00,2006,Budapest%20Hungary
+11,Hungary,Hungaroring,47.5789,19.2486,264,Budapest,2007-08-05,12:00:00,2007,Budapest%20Hungary
+11,Hungary,Hungaroring,47.5789,19.2486,264,Budapest,2008-08-03,12:00:00,2008,Budapest%20Hungary
+11,Hungary,Hungaroring,47.5789,19.2486,264,Budapest,2009-07-26,12:00:00,2009,Budapest%20Hungary
+11,Hungary,Hungaroring,47.5789,19.2486,264,Budapest,2010-08-01,12:00:00,2010,Budapest%20Hungary
+11,Hungary,Hungaroring,47.5789,19.2486,264,Budapest,2011-07-31,12:00:00,2011,Budapest%20Hungary
+11,Hungary,Hungaroring,47.5789,19.2486,264,Budapest,2012-07-29,12:00:00,2012,Budapest%20Hungary
+11,Hungary,Hungaroring,47.5789,19.2486,264,Budapest,2013-07-28,12:00:00,2013,Budapest%20Hungary
+11,Hungary,Hungaroring,47.5789,19.2486,264,Budapest,2014-07-27,12:00:00,2014,Budapest%20Hungary
+11,Hungary,Hungaroring,47.5789,19.2486,264,Budapest,2015-07-26,12:00:00,2015,Budapest%20Hungary
+11,Hungary,Hungaroring,47.5789,19.2486,264,Budapest,2016-07-24,12:00:00,2016,Budapest%20Hungary
+11,Hungary,Hungaroring,47.5789,19.2486,264,Budapest,2017-07-30,12:00:00,2017,Budapest%20Hungary
+11,Hungary,Hungaroring,47.5789,19.2486,264,Budapest,2018-07-29,13:10:00,2018,Budapest%20Hungary
+11,Hungary,Hungaroring,47.5789,19.2486,264,Budapest,2019-08-04,13:10:00,2019,Budapest%20Hungary
+11,Hungary,Hungaroring,47.5789,19.2486,264,Budapest,2020-07-19,13:10:00,2020,Budapest%20Hungary
+11,Hungary,Hungaroring,47.5789,19.2486,264,Budapest,2021-08-01,13:00:00,2021,Budapest%20Hungary
+11,Hungary,Hungaroring,47.5789,19.2486,264,Budapest,2022-07-31,13:00:00,2022,Budapest%20Hungary
+11,Hungary,Hungaroring,47.5789,19.2486,264,Budapest,2023-07-23,13:00:00,2023,Budapest%20Hungary
+11,Hungary,Hungaroring,47.5789,19.2486,264,Budapest,2024-07-21,13:00:00,2024,Budapest%20Hungary
+12,Spain,Valencia Street Circuit,39.4589,-0.331667,4,Valencia,2008-08-24,12:00:00,2008,Valencia%20Spain
+12,Spain,Valencia Street Circuit,39.4589,-0.331667,4,Valencia,2009-08-23,12:00:00,2009,Valencia%20Spain
+12,Spain,Valencia Street Circuit,39.4589,-0.331667,4,Valencia,2010-06-27,12:00:00,2010,Valencia%20Spain
+12,Spain,Valencia Street Circuit,39.4589,-0.331667,4,Valencia,2011-06-26,12:00:00,2011,Valencia%20Spain
+12,Spain,Valencia Street Circuit,39.4589,-0.331667,4,Valencia,2012-06-24,12:00:00,2012,Valencia%20Spain
+13,Belgium,Circuit de Spa-Francorchamps,50.4372,5.97139,401,Spa,1970-06-07,\N,1970,Spa%20Belgium
+13,Belgium,Circuit de Spa-Francorchamps,50.4372,5.97139,401,Spa,1983-05-22,\N,1983,Spa%20Belgium
+13,Belgium,Circuit de Spa-Francorchamps,50.4372,5.97139,401,Spa,1985-09-15,\N,1985,Spa%20Belgium
+13,Belgium,Circuit de Spa-Francorchamps,50.4372,5.97139,401,Spa,1986-05-25,\N,1986,Spa%20Belgium
+13,Belgium,Circuit de Spa-Francorchamps,50.4372,5.97139,401,Spa,1987-05-17,\N,1987,Spa%20Belgium
+13,Belgium,Circuit de Spa-Francorchamps,50.4372,5.97139,401,Spa,1988-08-28,\N,1988,Spa%20Belgium
+13,Belgium,Circuit de Spa-Francorchamps,50.4372,5.97139,401,Spa,1989-08-27,\N,1989,Spa%20Belgium
+13,Belgium,Circuit de Spa-Francorchamps,50.4372,5.97139,401,Spa,1990-08-26,\N,1990,Spa%20Belgium
+13,Belgium,Circuit de Spa-Francorchamps,50.4372,5.97139,401,Spa,1991-08-25,\N,1991,Spa%20Belgium
+13,Belgium,Circuit de Spa-Francorchamps,50.4372,5.97139,401,Spa,1992-08-30,\N,1992,Spa%20Belgium
+13,Belgium,Circuit de Spa-Francorchamps,50.4372,5.97139,401,Spa,1993-08-29,\N,1993,Spa%20Belgium
+13,Belgium,Circuit de Spa-Francorchamps,50.4372,5.97139,401,Spa,1994-08-28,\N,1994,Spa%20Belgium
+13,Belgium,Circuit de Spa-Francorchamps,50.4372,5.97139,401,Spa,1995-08-27,\N,1995,Spa%20Belgium
+13,Belgium,Circuit de Spa-Francorchamps,50.4372,5.97139,401,Spa,1996-08-25,\N,1996,Spa%20Belgium
+13,Belgium,Circuit de Spa-Francorchamps,50.4372,5.97139,401,Spa,1997-08-24,\N,1997,Spa%20Belgium
+13,Belgium,Circuit de Spa-Francorchamps,50.4372,5.97139,401,Spa,1998-08-30,\N,1998,Spa%20Belgium
+13,Belgium,Circuit de Spa-Francorchamps,50.4372,5.97139,401,Spa,1999-08-29,\N,1999,Spa%20Belgium
+13,Belgium,Circuit de Spa-Francorchamps,50.4372,5.97139,401,Spa,2000-08-27,\N,2000,Spa%20Belgium
+13,Belgium,Circuit de Spa-Francorchamps,50.4372,5.97139,401,Spa,2001-09-02,\N,2001,Spa%20Belgium
+13,Belgium,Circuit de Spa-Francorchamps,50.4372,5.97139,401,Spa,2002-09-01,\N,2002,Spa%20Belgium
+13,Belgium,Circuit de Spa-Francorchamps,50.4372,5.97139,401,Spa,2004-08-29,\N,2004,Spa%20Belgium
+13,Belgium,Circuit de Spa-Francorchamps,50.4372,5.97139,401,Spa,2005-09-11,14:00:00,2005,Spa%20Belgium
+13,Belgium,Circuit de Spa-Francorchamps,50.4372,5.97139,401,Spa,2007-09-16,12:00:00,2007,Spa%20Belgium
+13,Belgium,Circuit de Spa-Francorchamps,50.4372,5.97139,401,Spa,2008-09-07,12:00:00,2008,Spa%20Belgium
+13,Belgium,Circuit de Spa-Francorchamps,50.4372,5.97139,401,Spa,2009-08-30,12:00:00,2009,Spa%20Belgium
+13,Belgium,Circuit de Spa-Francorchamps,50.4372,5.97139,401,Spa,2010-08-29,12:00:00,2010,Spa%20Belgium
+13,Belgium,Circuit de Spa-Francorchamps,50.4372,5.97139,401,Spa,2011-08-28,12:00:00,2011,Spa%20Belgium
+13,Belgium,Circuit de Spa-Francorchamps,50.4372,5.97139,401,Spa,2012-09-02,12:00:00,2012,Spa%20Belgium
+13,Belgium,Circuit de Spa-Francorchamps,50.4372,5.97139,401,Spa,2013-08-25,12:00:00,2013,Spa%20Belgium
+13,Belgium,Circuit de Spa-Francorchamps,50.4372,5.97139,401,Spa,2014-08-24,12:00:00,2014,Spa%20Belgium
+13,Belgium,Circuit de Spa-Francorchamps,50.4372,5.97139,401,Spa,2015-08-23,12:00:00,2015,Spa%20Belgium
+13,Belgium,Circuit de Spa-Francorchamps,50.4372,5.97139,401,Spa,2016-08-28,12:00:00,2016,Spa%20Belgium
+13,Belgium,Circuit de Spa-Francorchamps,50.4372,5.97139,401,Spa,2017-08-27,12:00:00,2017,Spa%20Belgium
+13,Belgium,Circuit de Spa-Francorchamps,50.4372,5.97139,401,Spa,2018-08-26,13:10:00,2018,Spa%20Belgium
+13,Belgium,Circuit de Spa-Francorchamps,50.4372,5.97139,401,Spa,2019-09-01,13:10:00,2019,Spa%20Belgium
+13,Belgium,Circuit de Spa-Francorchamps,50.4372,5.97139,401,Spa,2020-08-30,13:10:00,2020,Spa%20Belgium
+13,Belgium,Circuit de Spa-Francorchamps,50.4372,5.97139,401,Spa,2021-08-29,13:00:00,2021,Spa%20Belgium
+13,Belgium,Circuit de Spa-Francorchamps,50.4372,5.97139,401,Spa,2022-08-28,13:00:00,2022,Spa%20Belgium
+13,Belgium,Circuit de Spa-Francorchamps,50.4372,5.97139,401,Spa,2023-07-30,13:00:00,2023,Spa%20Belgium
+13,Belgium,Circuit de Spa-Francorchamps,50.4372,5.97139,401,Spa,2024-07-28,13:00:00,2024,Spa%20Belgium
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,1970-09-06,\N,1970,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,1971-09-05,\N,1971,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,1972-09-10,\N,1972,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,1973-09-09,\N,1973,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,1974-09-08,\N,1974,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,1975-09-07,\N,1975,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,1976-09-12,\N,1976,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,1977-09-11,\N,1977,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,1978-09-10,\N,1978,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,1979-09-09,\N,1979,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,1981-09-13,\N,1981,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,1982-09-12,\N,1982,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,1983-09-11,\N,1983,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,1984-09-09,\N,1984,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,1985-09-08,\N,1985,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,1986-09-07,\N,1986,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,1987-09-06,\N,1987,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,1988-09-11,\N,1988,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,1989-09-10,\N,1989,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,1990-09-09,\N,1990,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,1991-09-08,\N,1991,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,1992-09-13,\N,1992,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,1993-09-12,\N,1993,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,1994-09-11,\N,1994,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,1995-09-10,\N,1995,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,1996-09-08,\N,1996,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,1997-09-07,\N,1997,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,1998-09-13,\N,1998,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,1999-09-12,\N,1999,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,2000-09-10,\N,2000,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,2001-09-16,\N,2001,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,2002-09-15,\N,2002,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,2003-09-14,\N,2003,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,2004-09-12,\N,2004,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,2005-09-04,14:00:00,2005,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,2006-09-10,14:00:00,2006,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,2007-09-09,12:00:00,2007,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,2008-09-14,12:00:00,2008,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,2009-09-13,12:00:00,2009,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,2010-09-12,12:00:00,2010,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,2011-09-11,12:00:00,2011,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,2012-09-09,12:00:00,2012,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,2013-09-08,12:00:00,2013,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,2014-09-07,12:00:00,2014,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,2015-09-06,12:00:00,2015,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,2016-09-04,12:00:00,2016,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,2017-09-03,12:00:00,2017,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,2018-09-02,13:10:00,2018,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,2019-09-08,13:10:00,2019,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,2020-09-06,13:10:00,2020,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,2021-09-12,13:00:00,2021,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,2022-09-11,13:00:00,2022,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,2023-09-03,13:00:00,2023,Monza%20Italy
+14,Italy,Autodromo Nazionale di Monza,45.6156,9.28111,162,Monza,2024-09-01,13:00:00,2024,Monza%20Italy
+15,Singapore,Marina Bay Street Circuit,1.2914,103.864,18,Marina Bay,2008-09-28,12:00:00,2008,Marina%20Bay%20Singapore
+15,Singapore,Marina Bay Street Circuit,1.2914,103.864,18,Marina Bay,2009-09-27,12:00:00,2009,Marina%20Bay%20Singapore
+15,Singapore,Marina Bay Street Circuit,1.2914,103.864,18,Marina Bay,2010-09-26,12:00:00,2010,Marina%20Bay%20Singapore
+15,Singapore,Marina Bay Street Circuit,1.2914,103.864,18,Marina Bay,2011-09-25,12:00:00,2011,Marina%20Bay%20Singapore
+15,Singapore,Marina Bay Street Circuit,1.2914,103.864,18,Marina Bay,2012-09-23,12:00:00,2012,Marina%20Bay%20Singapore
+15,Singapore,Marina Bay Street Circuit,1.2914,103.864,18,Marina Bay,2013-09-22,12:00:00,2013,Marina%20Bay%20Singapore
+15,Singapore,Marina Bay Street Circuit,1.2914,103.864,18,Marina Bay,2014-09-21,12:00:00,2014,Marina%20Bay%20Singapore
+15,Singapore,Marina Bay Street Circuit,1.2914,103.864,18,Marina Bay,2015-09-20,12:00:00,2015,Marina%20Bay%20Singapore
+15,Singapore,Marina Bay Street Circuit,1.2914,103.864,18,Marina Bay,2016-09-18,12:00:00,2016,Marina%20Bay%20Singapore
+15,Singapore,Marina Bay Street Circuit,1.2914,103.864,18,Marina Bay,2017-09-17,12:00:00,2017,Marina%20Bay%20Singapore
+15,Singapore,Marina Bay Street Circuit,1.2914,103.864,18,Marina Bay,2018-09-16,12:10:00,2018,Marina%20Bay%20Singapore
+15,Singapore,Marina Bay Street Circuit,1.2914,103.864,18,Marina Bay,2019-09-22,12:10:00,2019,Marina%20Bay%20Singapore
+15,Singapore,Marina Bay Street Circuit,1.2914,103.864,18,Marina Bay,2022-10-02,12:00:00,2022,Marina%20Bay%20Singapore
+15,Singapore,Marina Bay Street Circuit,1.2914,103.864,18,Marina Bay,2023-09-17,12:00:00,2023,Marina%20Bay%20Singapore
+15,Singapore,Marina Bay Street Circuit,1.2914,103.864,18,Marina Bay,2024-09-22,12:00:00,2024,Marina%20Bay%20Singapore
+16,Japan,Fuji Speedway,35.3717,138.927,583,Oyama,1976-10-24,\N,1976,Oyama%20Japan
+16,Japan,Fuji Speedway,35.3717,138.927,583,Oyama,1977-10-23,\N,1977,Oyama%20Japan
+16,Japan,Fuji Speedway,35.3717,138.927,583,Oyama,2007-09-30,04:30:00,2007,Oyama%20Japan
+16,Japan,Fuji Speedway,35.3717,138.927,583,Oyama,2008-10-12,04:30:00,2008,Oyama%20Japan
+17,China,Shanghai International Circuit,31.3389,121.22,5,Shanghai,2004-09-26,\N,2004,Shanghai%20China
+17,China,Shanghai International Circuit,31.3389,121.22,5,Shanghai,2005-10-16,14:00:00,2005,Shanghai%20China
+17,China,Shanghai International Circuit,31.3389,121.22,5,Shanghai,2006-10-01,14:00:00,2006,Shanghai%20China
+17,China,Shanghai International Circuit,31.3389,121.22,5,Shanghai,2007-10-07,06:00:00,2007,Shanghai%20China
+17,China,Shanghai International Circuit,31.3389,121.22,5,Shanghai,2008-10-19,07:00:00,2008,Shanghai%20China
+17,China,Shanghai International Circuit,31.3389,121.22,5,Shanghai,2009-04-19,07:00:00,2009,Shanghai%20China
+17,China,Shanghai International Circuit,31.3389,121.22,5,Shanghai,2010-04-18,06:00:00,2010,Shanghai%20China
+17,China,Shanghai International Circuit,31.3389,121.22,5,Shanghai,2011-04-17,07:00:00,2011,Shanghai%20China
+17,China,Shanghai International Circuit,31.3389,121.22,5,Shanghai,2012-04-15,07:00:00,2012,Shanghai%20China
+17,China,Shanghai International Circuit,31.3389,121.22,5,Shanghai,2013-04-14,07:00:00,2013,Shanghai%20China
+17,China,Shanghai International Circuit,31.3389,121.22,5,Shanghai,2014-04-20,07:00:00,2014,Shanghai%20China
+17,China,Shanghai International Circuit,31.3389,121.22,5,Shanghai,2015-04-12,06:00:00,2015,Shanghai%20China
+17,China,Shanghai International Circuit,31.3389,121.22,5,Shanghai,2016-04-17,06:00:00,2016,Shanghai%20China
+17,China,Shanghai International Circuit,31.3389,121.22,5,Shanghai,2017-04-09,06:00:00,2017,Shanghai%20China
+17,China,Shanghai International Circuit,31.3389,121.22,5,Shanghai,2018-04-15,06:10:00,2018,Shanghai%20China
+17,China,Shanghai International Circuit,31.3389,121.22,5,Shanghai,2019-04-14,06:10:00,2019,Shanghai%20China
+17,China,Shanghai International Circuit,31.3389,121.22,5,Shanghai,2024-04-21,07:00:00,2024,Shanghai%20China
+18,Brazil,Autódromo José Carlos Pace,-23.7036,-46.6997,785,São Paulo,1973-02-11,\N,1973,São%20Paulo%20Brazil
+18,Brazil,Autódromo José Carlos Pace,-23.7036,-46.6997,785,São Paulo,1974-01-27,\N,1974,São%20Paulo%20Brazil
+18,Brazil,Autódromo José Carlos Pace,-23.7036,-46.6997,785,São Paulo,1975-01-26,\N,1975,São%20Paulo%20Brazil
+18,Brazil,Autódromo José Carlos Pace,-23.7036,-46.6997,785,São Paulo,1976-01-25,\N,1976,São%20Paulo%20Brazil
+18,Brazil,Autódromo José Carlos Pace,-23.7036,-46.6997,785,São Paulo,1977-01-23,\N,1977,São%20Paulo%20Brazil
+18,Brazil,Autódromo José Carlos Pace,-23.7036,-46.6997,785,São Paulo,1979-02-04,\N,1979,São%20Paulo%20Brazil
+18,Brazil,Autódromo José Carlos Pace,-23.7036,-46.6997,785,São Paulo,1980-01-27,\N,1980,São%20Paulo%20Brazil
+18,Brazil,Autódromo José Carlos Pace,-23.7036,-46.6997,785,São Paulo,1990-03-25,\N,1990,São%20Paulo%20Brazil
+18,Brazil,Autódromo José Carlos Pace,-23.7036,-46.6997,785,São Paulo,1991-03-24,\N,1991,São%20Paulo%20Brazil
+18,Brazil,Autódromo José Carlos Pace,-23.7036,-46.6997,785,São Paulo,1992-04-05,\N,1992,São%20Paulo%20Brazil
+18,Brazil,Autódromo José Carlos Pace,-23.7036,-46.6997,785,São Paulo,1993-03-28,\N,1993,São%20Paulo%20Brazil
+18,Brazil,Autódromo José Carlos Pace,-23.7036,-46.6997,785,São Paulo,1994-03-27,\N,1994,São%20Paulo%20Brazil
+18,Brazil,Autódromo José Carlos Pace,-23.7036,-46.6997,785,São Paulo,1995-03-26,\N,1995,São%20Paulo%20Brazil
+18,Brazil,Autódromo José Carlos Pace,-23.7036,-46.6997,785,São Paulo,1996-03-31,\N,1996,São%20Paulo%20Brazil
+18,Brazil,Autódromo José Carlos Pace,-23.7036,-46.6997,785,São Paulo,1997-03-30,\N,1997,São%20Paulo%20Brazil
+18,Brazil,Autódromo José Carlos Pace,-23.7036,-46.6997,785,São Paulo,1998-03-29,\N,1998,São%20Paulo%20Brazil
+18,Brazil,Autódromo José Carlos Pace,-23.7036,-46.6997,785,São Paulo,1999-04-11,\N,1999,São%20Paulo%20Brazil
+18,Brazil,Autódromo José Carlos Pace,-23.7036,-46.6997,785,São Paulo,2000-03-26,\N,2000,São%20Paulo%20Brazil
+18,Brazil,Autódromo José Carlos Pace,-23.7036,-46.6997,785,São Paulo,2001-04-01,\N,2001,São%20Paulo%20Brazil
+18,Brazil,Autódromo José Carlos Pace,-23.7036,-46.6997,785,São Paulo,2002-03-31,\N,2002,São%20Paulo%20Brazil
+18,Brazil,Autódromo José Carlos Pace,-23.7036,-46.6997,785,São Paulo,2003-04-06,\N,2003,São%20Paulo%20Brazil
+18,Brazil,Autódromo José Carlos Pace,-23.7036,-46.6997,785,São Paulo,2004-10-24,\N,2004,São%20Paulo%20Brazil
+18,Brazil,Autódromo José Carlos Pace,-23.7036,-46.6997,785,São Paulo,2005-09-25,14:00:00,2005,São%20Paulo%20Brazil
+18,Brazil,Autódromo José Carlos Pace,-23.7036,-46.6997,785,São Paulo,2006-10-22,14:00:00,2006,São%20Paulo%20Brazil
+18,Brazil,Autódromo José Carlos Pace,-23.7036,-46.6997,785,São Paulo,2007-10-21,16:00:00,2007,São%20Paulo%20Brazil
+18,Brazil,Autódromo José Carlos Pace,-23.7036,-46.6997,785,São Paulo,2008-11-02,17:00:00,2008,São%20Paulo%20Brazil
+18,Brazil,Autódromo José Carlos Pace,-23.7036,-46.6997,785,São Paulo,2009-10-18,16:00:00,2009,São%20Paulo%20Brazil
+18,Brazil,Autódromo José Carlos Pace,-23.7036,-46.6997,785,São Paulo,2010-11-07,16:00:00,2010,São%20Paulo%20Brazil
+18,Brazil,Autódromo José Carlos Pace,-23.7036,-46.6997,785,São Paulo,2011-11-27,16:00:00,2011,São%20Paulo%20Brazil
+18,Brazil,Autódromo José Carlos Pace,-23.7036,-46.6997,785,São Paulo,2012-11-25,16:00:00,2012,São%20Paulo%20Brazil
+18,Brazil,Autódromo José Carlos Pace,-23.7036,-46.6997,785,São Paulo,2013-11-24,16:00:00,2013,São%20Paulo%20Brazil
+18,Brazil,Autódromo José Carlos Pace,-23.7036,-46.6997,785,São Paulo,2014-11-09,16:00:00,2014,São%20Paulo%20Brazil
+18,Brazil,Autódromo José Carlos Pace,-23.7036,-46.6997,785,São Paulo,2015-11-15,16:00:00,2015,São%20Paulo%20Brazil
+18,Brazil,Autódromo José Carlos Pace,-23.7036,-46.6997,785,São Paulo,2016-11-13,16:00:00,2016,São%20Paulo%20Brazil
+18,Brazil,Autódromo José Carlos Pace,-23.7036,-46.6997,785,São Paulo,2017-11-12,16:00:00,2017,São%20Paulo%20Brazil
+18,Brazil,Autódromo José Carlos Pace,-23.7036,-46.6997,785,São Paulo,2018-11-11,17:10:00,2018,São%20Paulo%20Brazil
+18,Brazil,Autódromo José Carlos Pace,-23.7036,-46.6997,785,São Paulo,2019-11-17,17:10:00,2019,São%20Paulo%20Brazil
+18,Brazil,Autódromo José Carlos Pace,-23.7036,-46.6997,785,São Paulo,2021-11-14,17:00:00,2021,São%20Paulo%20Brazil
+18,Brazil,Autódromo José Carlos Pace,-23.7036,-46.6997,785,São Paulo,2022-11-13,18:00:00,2022,São%20Paulo%20Brazil
+18,Brazil,Autódromo José Carlos Pace,-23.7036,-46.6997,785,São Paulo,2023-11-05,17:00:00,2023,São%20Paulo%20Brazil
+18,Brazil,Autódromo José Carlos Pace,-23.7036,-46.6997,785,São Paulo,2024-11-03,17:00:00,2024,São%20Paulo%20Brazil
+19,USA,Indianapolis Motor Speedway,39.795,-86.2347,223,Indianapolis,2000-09-24,\N,2000,Indianapolis%20USA
+19,USA,Indianapolis Motor Speedway,39.795,-86.2347,223,Indianapolis,2001-09-30,\N,2001,Indianapolis%20USA
+19,USA,Indianapolis Motor Speedway,39.795,-86.2347,223,Indianapolis,2002-09-29,\N,2002,Indianapolis%20USA
+19,USA,Indianapolis Motor Speedway,39.795,-86.2347,223,Indianapolis,2003-09-28,\N,2003,Indianapolis%20USA
+19,USA,Indianapolis Motor Speedway,39.795,-86.2347,223,Indianapolis,2004-06-20,\N,2004,Indianapolis%20USA
+19,USA,Indianapolis Motor Speedway,39.795,-86.2347,223,Indianapolis,2005-06-19,14:00:00,2005,Indianapolis%20USA
+19,USA,Indianapolis Motor Speedway,39.795,-86.2347,223,Indianapolis,2006-07-02,14:00:00,2006,Indianapolis%20USA
+19,USA,Indianapolis Motor Speedway,39.795,-86.2347,223,Indianapolis,2007-06-17,17:00:00,2007,Indianapolis%20USA
+20,Germany,Nürburgring,50.3356,6.9475,578,Nürburg,1971-08-01,\N,1971,Nürburg%20Germany
+20,Germany,Nürburgring,50.3356,6.9475,578,Nürburg,1972-07-30,\N,1972,Nürburg%20Germany
+20,Germany,Nürburgring,50.3356,6.9475,578,Nürburg,1973-08-05,\N,1973,Nürburg%20Germany
+20,Germany,Nürburgring,50.3356,6.9475,578,Nürburg,1974-08-04,\N,1974,Nürburg%20Germany
+20,Germany,Nürburgring,50.3356,6.9475,578,Nürburg,1975-08-03,\N,1975,Nürburg%20Germany
+20,Germany,Nürburgring,50.3356,6.9475,578,Nürburg,1976-08-01,\N,1976,Nürburg%20Germany
+20,Germany,Nürburgring,50.3356,6.9475,578,Nürburg,1984-10-07,\N,1984,Nürburg%20Germany
+20,Germany,Nürburgring,50.3356,6.9475,578,Nürburg,1985-08-04,\N,1985,Nürburg%20Germany
+20,Germany,Nürburgring,50.3356,6.9475,578,Nürburg,1995-10-01,\N,1995,Nürburg%20Germany
+20,Germany,Nürburgring,50.3356,6.9475,578,Nürburg,1996-04-28,\N,1996,Nürburg%20Germany
+20,Germany,Nürburgring,50.3356,6.9475,578,Nürburg,1997-09-28,\N,1997,Nürburg%20Germany
+20,Germany,Nürburgring,50.3356,6.9475,578,Nürburg,1998-09-27,\N,1998,Nürburg%20Germany
+20,Germany,Nürburgring,50.3356,6.9475,578,Nürburg,1999-09-26,\N,1999,Nürburg%20Germany
+20,Germany,Nürburgring,50.3356,6.9475,578,Nürburg,2000-05-21,\N,2000,Nürburg%20Germany
+20,Germany,Nürburgring,50.3356,6.9475,578,Nürburg,2001-06-24,\N,2001,Nürburg%20Germany
+20,Germany,Nürburgring,50.3356,6.9475,578,Nürburg,2002-06-23,\N,2002,Nürburg%20Germany
+20,Germany,Nürburgring,50.3356,6.9475,578,Nürburg,2003-06-29,\N,2003,Nürburg%20Germany
+20,Germany,Nürburgring,50.3356,6.9475,578,Nürburg,2004-05-30,\N,2004,Nürburg%20Germany
+20,Germany,Nürburgring,50.3356,6.9475,578,Nürburg,2005-05-29,14:00:00,2005,Nürburg%20Germany
+20,Germany,Nürburgring,50.3356,6.9475,578,Nürburg,2006-05-07,14:00:00,2006,Nürburg%20Germany
+20,Germany,Nürburgring,50.3356,6.9475,578,Nürburg,2007-07-22,12:00:00,2007,Nürburg%20Germany
+20,Germany,Nürburgring,50.3356,6.9475,578,Nürburg,2009-07-12,12:00:00,2009,Nürburg%20Germany
+20,Germany,Nürburgring,50.3356,6.9475,578,Nürburg,2011-07-24,12:00:00,2011,Nürburg%20Germany
+20,Germany,Nürburgring,50.3356,6.9475,578,Nürburg,2013-07-07,12:00:00,2013,Nürburg%20Germany
+20,Germany,Nürburgring,50.3356,6.9475,578,Nürburg,2020-10-11,13:10:00,2020,Nürburg%20Germany
+21,Italy,Autodromo Enzo e Dino Ferrari,44.3439,11.7167,37,Imola,1980-09-14,\N,1980,Imola%20Italy
+21,Italy,Autodromo Enzo e Dino Ferrari,44.3439,11.7167,37,Imola,1981-05-03,\N,1981,Imola%20Italy
+21,Italy,Autodromo Enzo e Dino Ferrari,44.3439,11.7167,37,Imola,1982-04-25,\N,1982,Imola%20Italy
+21,Italy,Autodromo Enzo e Dino Ferrari,44.3439,11.7167,37,Imola,1983-05-01,\N,1983,Imola%20Italy
+21,Italy,Autodromo Enzo e Dino Ferrari,44.3439,11.7167,37,Imola,1984-05-06,\N,1984,Imola%20Italy
+21,Italy,Autodromo Enzo e Dino Ferrari,44.3439,11.7167,37,Imola,1985-05-05,\N,1985,Imola%20Italy
+21,Italy,Autodromo Enzo e Dino Ferrari,44.3439,11.7167,37,Imola,1986-04-27,\N,1986,Imola%20Italy
+21,Italy,Autodromo Enzo e Dino Ferrari,44.3439,11.7167,37,Imola,1987-05-03,\N,1987,Imola%20Italy
+21,Italy,Autodromo Enzo e Dino Ferrari,44.3439,11.7167,37,Imola,1988-05-01,\N,1988,Imola%20Italy
+21,Italy,Autodromo Enzo e Dino Ferrari,44.3439,11.7167,37,Imola,1989-04-23,\N,1989,Imola%20Italy
+21,Italy,Autodromo Enzo e Dino Ferrari,44.3439,11.7167,37,Imola,1990-05-13,\N,1990,Imola%20Italy
+21,Italy,Autodromo Enzo e Dino Ferrari,44.3439,11.7167,37,Imola,1991-04-28,\N,1991,Imola%20Italy
+21,Italy,Autodromo Enzo e Dino Ferrari,44.3439,11.7167,37,Imola,1992-05-17,\N,1992,Imola%20Italy
+21,Italy,Autodromo Enzo e Dino Ferrari,44.3439,11.7167,37,Imola,1993-04-25,\N,1993,Imola%20Italy
+21,Italy,Autodromo Enzo e Dino Ferrari,44.3439,11.7167,37,Imola,1994-05-01,\N,1994,Imola%20Italy
+21,Italy,Autodromo Enzo e Dino Ferrari,44.3439,11.7167,37,Imola,1995-04-30,\N,1995,Imola%20Italy
+21,Italy,Autodromo Enzo e Dino Ferrari,44.3439,11.7167,37,Imola,1996-05-05,\N,1996,Imola%20Italy
+21,Italy,Autodromo Enzo e Dino Ferrari,44.3439,11.7167,37,Imola,1997-04-27,\N,1997,Imola%20Italy
+21,Italy,Autodromo Enzo e Dino Ferrari,44.3439,11.7167,37,Imola,1998-04-26,\N,1998,Imola%20Italy
+21,Italy,Autodromo Enzo e Dino Ferrari,44.3439,11.7167,37,Imola,1999-05-02,\N,1999,Imola%20Italy
+21,Italy,Autodromo Enzo e Dino Ferrari,44.3439,11.7167,37,Imola,2000-04-09,\N,2000,Imola%20Italy
+21,Italy,Autodromo Enzo e Dino Ferrari,44.3439,11.7167,37,Imola,2001-04-15,\N,2001,Imola%20Italy
+21,Italy,Autodromo Enzo e Dino Ferrari,44.3439,11.7167,37,Imola,2002-04-14,\N,2002,Imola%20Italy
+21,Italy,Autodromo Enzo e Dino Ferrari,44.3439,11.7167,37,Imola,2003-04-20,\N,2003,Imola%20Italy
+21,Italy,Autodromo Enzo e Dino Ferrari,44.3439,11.7167,37,Imola,2004-04-25,\N,2004,Imola%20Italy
+21,Italy,Autodromo Enzo e Dino Ferrari,44.3439,11.7167,37,Imola,2005-04-24,14:00:00,2005,Imola%20Italy
+21,Italy,Autodromo Enzo e Dino Ferrari,44.3439,11.7167,37,Imola,2006-04-23,14:00:00,2006,Imola%20Italy
+21,Italy,Autodromo Enzo e Dino Ferrari,44.3439,11.7167,37,Imola,2020-11-01,12:10:00,2020,Imola%20Italy
+21,Italy,Autodromo Enzo e Dino Ferrari,44.3439,11.7167,37,Imola,2021-04-18,13:00:00,2021,Imola%20Italy
+21,Italy,Autodromo Enzo e Dino Ferrari,44.3439,11.7167,37,Imola,2022-04-24,13:00:00,2022,Imola%20Italy
+21,Italy,Autodromo Enzo e Dino Ferrari,44.3439,11.7167,37,Imola,2024-05-19,13:00:00,2024,Imola%20Italy
+22,Japan,Suzuka Circuit,34.8431,136.541,45,Suzuka,1987-11-01,\N,1987,Suzuka%20Japan
+22,Japan,Suzuka Circuit,34.8431,136.541,45,Suzuka,1988-10-30,\N,1988,Suzuka%20Japan
+22,Japan,Suzuka Circuit,34.8431,136.541,45,Suzuka,1989-10-22,\N,1989,Suzuka%20Japan
+22,Japan,Suzuka Circuit,34.8431,136.541,45,Suzuka,1990-10-21,\N,1990,Suzuka%20Japan
+22,Japan,Suzuka Circuit,34.8431,136.541,45,Suzuka,1991-10-20,\N,1991,Suzuka%20Japan
+22,Japan,Suzuka Circuit,34.8431,136.541,45,Suzuka,1992-10-25,\N,1992,Suzuka%20Japan
+22,Japan,Suzuka Circuit,34.8431,136.541,45,Suzuka,1993-10-24,\N,1993,Suzuka%20Japan
+22,Japan,Suzuka Circuit,34.8431,136.541,45,Suzuka,1994-11-06,\N,1994,Suzuka%20Japan
+22,Japan,Suzuka Circuit,34.8431,136.541,45,Suzuka,1995-10-29,\N,1995,Suzuka%20Japan
+22,Japan,Suzuka Circuit,34.8431,136.541,45,Suzuka,1996-10-13,\N,1996,Suzuka%20Japan
+22,Japan,Suzuka Circuit,34.8431,136.541,45,Suzuka,1997-10-12,\N,1997,Suzuka%20Japan
+22,Japan,Suzuka Circuit,34.8431,136.541,45,Suzuka,1998-11-01,\N,1998,Suzuka%20Japan
+22,Japan,Suzuka Circuit,34.8431,136.541,45,Suzuka,1999-10-31,\N,1999,Suzuka%20Japan
+22,Japan,Suzuka Circuit,34.8431,136.541,45,Suzuka,2000-10-08,\N,2000,Suzuka%20Japan
+22,Japan,Suzuka Circuit,34.8431,136.541,45,Suzuka,2001-10-14,\N,2001,Suzuka%20Japan
+22,Japan,Suzuka Circuit,34.8431,136.541,45,Suzuka,2002-10-13,\N,2002,Suzuka%20Japan
+22,Japan,Suzuka Circuit,34.8431,136.541,45,Suzuka,2003-10-12,\N,2003,Suzuka%20Japan
+22,Japan,Suzuka Circuit,34.8431,136.541,45,Suzuka,2004-10-10,\N,2004,Suzuka%20Japan
+22,Japan,Suzuka Circuit,34.8431,136.541,45,Suzuka,2005-10-09,14:00:00,2005,Suzuka%20Japan
+22,Japan,Suzuka Circuit,34.8431,136.541,45,Suzuka,2006-10-08,14:00:00,2006,Suzuka%20Japan
+22,Japan,Suzuka Circuit,34.8431,136.541,45,Suzuka,2009-10-04,05:00:00,2009,Suzuka%20Japan
+22,Japan,Suzuka Circuit,34.8431,136.541,45,Suzuka,2010-10-10,06:00:00,2010,Suzuka%20Japan
+22,Japan,Suzuka Circuit,34.8431,136.541,45,Suzuka,2011-10-09,06:00:00,2011,Suzuka%20Japan
+22,Japan,Suzuka Circuit,34.8431,136.541,45,Suzuka,2012-10-07,06:00:00,2012,Suzuka%20Japan
+22,Japan,Suzuka Circuit,34.8431,136.541,45,Suzuka,2013-10-13,06:00:00,2013,Suzuka%20Japan
+22,Japan,Suzuka Circuit,34.8431,136.541,45,Suzuka,2014-10-05,06:00:00,2014,Suzuka%20Japan
+22,Japan,Suzuka Circuit,34.8431,136.541,45,Suzuka,2015-09-27,05:00:00,2015,Suzuka%20Japan
+22,Japan,Suzuka Circuit,34.8431,136.541,45,Suzuka,2016-10-09,05:00:00,2016,Suzuka%20Japan
+22,Japan,Suzuka Circuit,34.8431,136.541,45,Suzuka,2017-10-08,05:00:00,2017,Suzuka%20Japan
+22,Japan,Suzuka Circuit,34.8431,136.541,45,Suzuka,2018-10-07,05:10:00,2018,Suzuka%20Japan
+22,Japan,Suzuka Circuit,34.8431,136.541,45,Suzuka,2019-10-13,05:10:00,2019,Suzuka%20Japan
+22,Japan,Suzuka Circuit,34.8431,136.541,45,Suzuka,2022-10-09,05:00:00,2022,Suzuka%20Japan
+22,Japan,Suzuka Circuit,34.8431,136.541,45,Suzuka,2023-09-24,05:00:00,2023,Suzuka%20Japan
+22,Japan,Suzuka Circuit,34.8431,136.541,45,Suzuka,2024-04-07,05:00:00,2024,Suzuka%20Japan
+24,UAE,Yas Marina Circuit,24.4672,54.6031,3,Abu Dhabi,2009-11-01,11:00:00,2009,Abu%20Dhabi%20UAE
+24,UAE,Yas Marina Circuit,24.4672,54.6031,3,Abu Dhabi,2010-11-14,13:00:00,2010,Abu%20Dhabi%20UAE
+24,UAE,Yas Marina Circuit,24.4672,54.6031,3,Abu Dhabi,2011-11-13,13:00:00,2011,Abu%20Dhabi%20UAE
+24,UAE,Yas Marina Circuit,24.4672,54.6031,3,Abu Dhabi,2012-11-04,13:00:00,2012,Abu%20Dhabi%20UAE
+24,UAE,Yas Marina Circuit,24.4672,54.6031,3,Abu Dhabi,2013-11-03,13:00:00,2013,Abu%20Dhabi%20UAE
+24,UAE,Yas Marina Circuit,24.4672,54.6031,3,Abu Dhabi,2014-11-23,13:00:00,2014,Abu%20Dhabi%20UAE
+24,UAE,Yas Marina Circuit,24.4672,54.6031,3,Abu Dhabi,2015-11-29,13:00:00,2015,Abu%20Dhabi%20UAE
+24,UAE,Yas Marina Circuit,24.4672,54.6031,3,Abu Dhabi,2016-11-27,13:00:00,2016,Abu%20Dhabi%20UAE
+24,UAE,Yas Marina Circuit,24.4672,54.6031,3,Abu Dhabi,2017-11-26,13:00:00,2017,Abu%20Dhabi%20UAE
+24,UAE,Yas Marina Circuit,24.4672,54.6031,3,Abu Dhabi,2018-11-25,13:10:00,2018,Abu%20Dhabi%20UAE
+24,UAE,Yas Marina Circuit,24.4672,54.6031,3,Abu Dhabi,2019-12-01,13:10:00,2019,Abu%20Dhabi%20UAE
+24,UAE,Yas Marina Circuit,24.4672,54.6031,3,Abu Dhabi,2020-12-13,13:10:00,2020,Abu%20Dhabi%20UAE
+24,UAE,Yas Marina Circuit,24.4672,54.6031,3,Abu Dhabi,2021-12-12,13:00:00,2021,Abu%20Dhabi%20UAE
+24,UAE,Yas Marina Circuit,24.4672,54.6031,3,Abu Dhabi,2022-11-20,13:00:00,2022,Abu%20Dhabi%20UAE
+24,UAE,Yas Marina Circuit,24.4672,54.6031,3,Abu Dhabi,2023-11-26,13:00:00,2023,Abu%20Dhabi%20UAE
+24,UAE,Yas Marina Circuit,24.4672,54.6031,3,Abu Dhabi,2024-12-08,13:00:00,2024,Abu%20Dhabi%20UAE
+25,Argentina,Autódromo Juan y Oscar Gálvez,-34.6943,-58.4593,8,Buenos Aires,1972-01-23,\N,1972,Buenos%20Aires%20Argentina
+25,Argentina,Autódromo Juan y Oscar Gálvez,-34.6943,-58.4593,8,Buenos Aires,1973-01-28,\N,1973,Buenos%20Aires%20Argentina
+25,Argentina,Autódromo Juan y Oscar Gálvez,-34.6943,-58.4593,8,Buenos Aires,1974-01-13,\N,1974,Buenos%20Aires%20Argentina
+25,Argentina,Autódromo Juan y Oscar Gálvez,-34.6943,-58.4593,8,Buenos Aires,1975-01-12,\N,1975,Buenos%20Aires%20Argentina
+25,Argentina,Autódromo Juan y Oscar Gálvez,-34.6943,-58.4593,8,Buenos Aires,1977-01-09,\N,1977,Buenos%20Aires%20Argentina
+25,Argentina,Autódromo Juan y Oscar Gálvez,-34.6943,-58.4593,8,Buenos Aires,1978-01-15,\N,1978,Buenos%20Aires%20Argentina
+25,Argentina,Autódromo Juan y Oscar Gálvez,-34.6943,-58.4593,8,Buenos Aires,1979-01-21,\N,1979,Buenos%20Aires%20Argentina
+25,Argentina,Autódromo Juan y Oscar Gálvez,-34.6943,-58.4593,8,Buenos Aires,1980-01-13,\N,1980,Buenos%20Aires%20Argentina
+25,Argentina,Autódromo Juan y Oscar Gálvez,-34.6943,-58.4593,8,Buenos Aires,1981-04-12,\N,1981,Buenos%20Aires%20Argentina
+25,Argentina,Autódromo Juan y Oscar Gálvez,-34.6943,-58.4593,8,Buenos Aires,1995-04-09,\N,1995,Buenos%20Aires%20Argentina
+25,Argentina,Autódromo Juan y Oscar Gálvez,-34.6943,-58.4593,8,Buenos Aires,1996-04-07,\N,1996,Buenos%20Aires%20Argentina
+25,Argentina,Autódromo Juan y Oscar Gálvez,-34.6943,-58.4593,8,Buenos Aires,1997-04-13,\N,1997,Buenos%20Aires%20Argentina
+25,Argentina,Autódromo Juan y Oscar Gálvez,-34.6943,-58.4593,8,Buenos Aires,1998-04-12,\N,1998,Buenos%20Aires%20Argentina
+26,Spain,Circuito de Jerez,36.7083,-6.03417,37,Jerez de la Frontera,1986-04-13,\N,1986,Jerez%20de%20la%20Frontera%20Spain
+26,Spain,Circuito de Jerez,36.7083,-6.03417,37,Jerez de la Frontera,1987-09-27,\N,1987,Jerez%20de%20la%20Frontera%20Spain
+26,Spain,Circuito de Jerez,36.7083,-6.03417,37,Jerez de la Frontera,1988-10-02,\N,1988,Jerez%20de%20la%20Frontera%20Spain
+26,Spain,Circuito de Jerez,36.7083,-6.03417,37,Jerez de la Frontera,1989-10-01,\N,1989,Jerez%20de%20la%20Frontera%20Spain
+26,Spain,Circuito de Jerez,36.7083,-6.03417,37,Jerez de la Frontera,1990-09-30,\N,1990,Jerez%20de%20la%20Frontera%20Spain
+26,Spain,Circuito de Jerez,36.7083,-6.03417,37,Jerez de la Frontera,1994-10-16,\N,1994,Jerez%20de%20la%20Frontera%20Spain
+26,Spain,Circuito de Jerez,36.7083,-6.03417,37,Jerez de la Frontera,1997-10-26,\N,1997,Jerez%20de%20la%20Frontera%20Spain
+27,Portugal,Autódromo do Estoril,38.7506,-9.39417,130,Estoril,1984-10-21,\N,1984,Estoril%20Portugal
+27,Portugal,Autódromo do Estoril,38.7506,-9.39417,130,Estoril,1985-04-21,\N,1985,Estoril%20Portugal
+27,Portugal,Autódromo do Estoril,38.7506,-9.39417,130,Estoril,1986-09-21,\N,1986,Estoril%20Portugal
+27,Portugal,Autódromo do Estoril,38.7506,-9.39417,130,Estoril,1987-09-20,\N,1987,Estoril%20Portugal
+27,Portugal,Autódromo do Estoril,38.7506,-9.39417,130,Estoril,1988-09-25,\N,1988,Estoril%20Portugal
+27,Portugal,Autódromo do Estoril,38.7506,-9.39417,130,Estoril,1989-09-24,\N,1989,Estoril%20Portugal
+27,Portugal,Autódromo do Estoril,38.7506,-9.39417,130,Estoril,1990-09-23,\N,1990,Estoril%20Portugal
+27,Portugal,Autódromo do Estoril,38.7506,-9.39417,130,Estoril,1991-09-22,\N,1991,Estoril%20Portugal
+27,Portugal,Autódromo do Estoril,38.7506,-9.39417,130,Estoril,1992-09-27,\N,1992,Estoril%20Portugal
+27,Portugal,Autódromo do Estoril,38.7506,-9.39417,130,Estoril,1993-09-26,\N,1993,Estoril%20Portugal
+27,Portugal,Autódromo do Estoril,38.7506,-9.39417,130,Estoril,1994-09-25,\N,1994,Estoril%20Portugal
+27,Portugal,Autódromo do Estoril,38.7506,-9.39417,130,Estoril,1995-09-24,\N,1995,Estoril%20Portugal
+27,Portugal,Autódromo do Estoril,38.7506,-9.39417,130,Estoril,1996-09-22,\N,1996,Estoril%20Portugal
+28,Japan,Okayama International Circuit,34.915,134.221,266,Okayama,1994-04-17,\N,1994,Okayama%20Japan
+28,Japan,Okayama International Circuit,34.915,134.221,266,Okayama,1995-10-22,\N,1995,Okayama%20Japan
+29,Australia,Adelaide Street Circuit,-34.9272,138.617,58,Adelaide,1985-11-03,\N,1985,Adelaide%20Australia
+29,Australia,Adelaide Street Circuit,-34.9272,138.617,58,Adelaide,1986-10-26,\N,1986,Adelaide%20Australia
+29,Australia,Adelaide Street Circuit,-34.9272,138.617,58,Adelaide,1987-11-15,\N,1987,Adelaide%20Australia
+29,Australia,Adelaide Street Circuit,-34.9272,138.617,58,Adelaide,1988-11-13,\N,1988,Adelaide%20Australia
+29,Australia,Adelaide Street Circuit,-34.9272,138.617,58,Adelaide,1989-11-05,\N,1989,Adelaide%20Australia
+29,Australia,Adelaide Street Circuit,-34.9272,138.617,58,Adelaide,1990-11-04,\N,1990,Adelaide%20Australia
+29,Australia,Adelaide Street Circuit,-34.9272,138.617,58,Adelaide,1991-11-03,\N,1991,Adelaide%20Australia
+29,Australia,Adelaide Street Circuit,-34.9272,138.617,58,Adelaide,1992-11-08,\N,1992,Adelaide%20Australia
+29,Australia,Adelaide Street Circuit,-34.9272,138.617,58,Adelaide,1993-11-07,\N,1993,Adelaide%20Australia
+29,Australia,Adelaide Street Circuit,-34.9272,138.617,58,Adelaide,1994-11-13,\N,1994,Adelaide%20Australia
+29,Australia,Adelaide Street Circuit,-34.9272,138.617,58,Adelaide,1995-11-12,\N,1995,Adelaide%20Australia
+30,South Africa,Kyalami,-25.9894,28.0767,1460,Midrand,1970-03-07,\N,1970,Midrand%20South%20Africa
+30,South Africa,Kyalami,-25.9894,28.0767,1460,Midrand,1971-03-06,\N,1971,Midrand%20South%20Africa
+30,South Africa,Kyalami,-25.9894,28.0767,1460,Midrand,1972-03-04,\N,1972,Midrand%20South%20Africa
+30,South Africa,Kyalami,-25.9894,28.0767,1460,Midrand,1973-03-03,\N,1973,Midrand%20South%20Africa
+30,South Africa,Kyalami,-25.9894,28.0767,1460,Midrand,1974-03-30,\N,1974,Midrand%20South%20Africa
+30,South Africa,Kyalami,-25.9894,28.0767,1460,Midrand,1975-03-01,\N,1975,Midrand%20South%20Africa
+30,South Africa,Kyalami,-25.9894,28.0767,1460,Midrand,1976-03-06,\N,1976,Midrand%20South%20Africa
+30,South Africa,Kyalami,-25.9894,28.0767,1460,Midrand,1977-03-05,\N,1977,Midrand%20South%20Africa
+30,South Africa,Kyalami,-25.9894,28.0767,1460,Midrand,1978-03-04,\N,1978,Midrand%20South%20Africa
+30,South Africa,Kyalami,-25.9894,28.0767,1460,Midrand,1979-03-03,\N,1979,Midrand%20South%20Africa
+30,South Africa,Kyalami,-25.9894,28.0767,1460,Midrand,1980-03-01,\N,1980,Midrand%20South%20Africa
+30,South Africa,Kyalami,-25.9894,28.0767,1460,Midrand,1982-01-23,\N,1982,Midrand%20South%20Africa
+30,South Africa,Kyalami,-25.9894,28.0767,1460,Midrand,1983-10-15,\N,1983,Midrand%20South%20Africa
+30,South Africa,Kyalami,-25.9894,28.0767,1460,Midrand,1984-04-07,\N,1984,Midrand%20South%20Africa
+30,South Africa,Kyalami,-25.9894,28.0767,1460,Midrand,1985-10-19,\N,1985,Midrand%20South%20Africa
+30,South Africa,Kyalami,-25.9894,28.0767,1460,Midrand,1992-03-01,\N,1992,Midrand%20South%20Africa
+30,South Africa,Kyalami,-25.9894,28.0767,1460,Midrand,1993-03-14,\N,1993,Midrand%20South%20Africa
+31,UK,Donington Park,52.8306,-1.37528,88,Castle Donington,1993-04-11,\N,1993,Castle%20Donington%20UK
+32,Mexico,Autódromo Hermanos Rodríguez,19.4042,-99.0907,2227,Mexico City,1970-10-25,\N,1970,Mexico%20City%20Mexico
+32,Mexico,Autódromo Hermanos Rodríguez,19.4042,-99.0907,2227,Mexico City,1986-10-12,\N,1986,Mexico%20City%20Mexico
+32,Mexico,Autódromo Hermanos Rodríguez,19.4042,-99.0907,2227,Mexico City,1987-10-18,\N,1987,Mexico%20City%20Mexico
+32,Mexico,Autódromo Hermanos Rodríguez,19.4042,-99.0907,2227,Mexico City,1988-05-29,\N,1988,Mexico%20City%20Mexico
+32,Mexico,Autódromo Hermanos Rodríguez,19.4042,-99.0907,2227,Mexico City,1989-05-28,\N,1989,Mexico%20City%20Mexico
+32,Mexico,Autódromo Hermanos Rodríguez,19.4042,-99.0907,2227,Mexico City,1990-06-24,\N,1990,Mexico%20City%20Mexico
+32,Mexico,Autódromo Hermanos Rodríguez,19.4042,-99.0907,2227,Mexico City,1991-06-16,\N,1991,Mexico%20City%20Mexico
+32,Mexico,Autódromo Hermanos Rodríguez,19.4042,-99.0907,2227,Mexico City,1992-03-22,\N,1992,Mexico%20City%20Mexico
+32,Mexico,Autódromo Hermanos Rodríguez,19.4042,-99.0907,2227,Mexico City,2015-11-01,19:00:00,2015,Mexico%20City%20Mexico
+32,Mexico,Autódromo Hermanos Rodríguez,19.4042,-99.0907,2227,Mexico City,2016-10-30,19:00:00,2016,Mexico%20City%20Mexico
+32,Mexico,Autódromo Hermanos Rodríguez,19.4042,-99.0907,2227,Mexico City,2017-10-29,19:00:00,2017,Mexico%20City%20Mexico
+32,Mexico,Autódromo Hermanos Rodríguez,19.4042,-99.0907,2227,Mexico City,2018-10-28,19:10:00,2018,Mexico%20City%20Mexico
+32,Mexico,Autódromo Hermanos Rodríguez,19.4042,-99.0907,2227,Mexico City,2019-10-27,19:10:00,2019,Mexico%20City%20Mexico
+32,Mexico,Autódromo Hermanos Rodríguez,19.4042,-99.0907,2227,Mexico City,2021-11-07,19:00:00,2021,Mexico%20City%20Mexico
+32,Mexico,Autódromo Hermanos Rodríguez,19.4042,-99.0907,2227,Mexico City,2022-10-30,20:00:00,2022,Mexico%20City%20Mexico
+32,Mexico,Autódromo Hermanos Rodríguez,19.4042,-99.0907,2227,Mexico City,2023-10-29,20:00:00,2023,Mexico%20City%20Mexico
+32,Mexico,Autódromo Hermanos Rodríguez,19.4042,-99.0907,2227,Mexico City,2024-10-27,20:00:00,2024,Mexico%20City%20Mexico
+33,USA,Phoenix street circuit,33.4479,-112.075,345,Phoenix,1989-06-04,\N,1989,Phoenix%20USA
+33,USA,Phoenix street circuit,33.4479,-112.075,345,Phoenix,1990-03-11,\N,1990,Phoenix%20USA
+33,USA,Phoenix street circuit,33.4479,-112.075,345,Phoenix,1991-03-10,\N,1991,Phoenix%20USA
+34,France,Circuit Paul Ricard,43.2506,5.79167,432,Le Castellet,1971-07-04,\N,1971,Le%20Castellet%20France
+34,France,Circuit Paul Ricard,43.2506,5.79167,432,Le Castellet,1973-07-01,\N,1973,Le%20Castellet%20France
+34,France,Circuit Paul Ricard,43.2506,5.79167,432,Le Castellet,1975-07-06,\N,1975,Le%20Castellet%20France
+34,France,Circuit Paul Ricard,43.2506,5.79167,432,Le Castellet,1976-07-04,\N,1976,Le%20Castellet%20France
+34,France,Circuit Paul Ricard,43.2506,5.79167,432,Le Castellet,1978-07-02,\N,1978,Le%20Castellet%20France
+34,France,Circuit Paul Ricard,43.2506,5.79167,432,Le Castellet,1980-06-29,\N,1980,Le%20Castellet%20France
+34,France,Circuit Paul Ricard,43.2506,5.79167,432,Le Castellet,1982-07-25,\N,1982,Le%20Castellet%20France
+34,France,Circuit Paul Ricard,43.2506,5.79167,432,Le Castellet,1983-04-17,\N,1983,Le%20Castellet%20France
+34,France,Circuit Paul Ricard,43.2506,5.79167,432,Le Castellet,1985-07-07,\N,1985,Le%20Castellet%20France
+34,France,Circuit Paul Ricard,43.2506,5.79167,432,Le Castellet,1986-07-06,\N,1986,Le%20Castellet%20France
+34,France,Circuit Paul Ricard,43.2506,5.79167,432,Le Castellet,1987-07-05,\N,1987,Le%20Castellet%20France
+34,France,Circuit Paul Ricard,43.2506,5.79167,432,Le Castellet,1988-07-03,\N,1988,Le%20Castellet%20France
+34,France,Circuit Paul Ricard,43.2506,5.79167,432,Le Castellet,1989-07-09,\N,1989,Le%20Castellet%20France
+34,France,Circuit Paul Ricard,43.2506,5.79167,432,Le Castellet,1990-07-08,\N,1990,Le%20Castellet%20France
+34,France,Circuit Paul Ricard,43.2506,5.79167,432,Le Castellet,2018-06-24,14:10:00,2018,Le%20Castellet%20France
+34,France,Circuit Paul Ricard,43.2506,5.79167,432,Le Castellet,2019-06-23,13:10:00,2019,Le%20Castellet%20France
+34,France,Circuit Paul Ricard,43.2506,5.79167,432,Le Castellet,2021-06-20,13:00:00,2021,Le%20Castellet%20France
+34,France,Circuit Paul Ricard,43.2506,5.79167,432,Le Castellet,2022-07-24,13:00:00,2022,Le%20Castellet%20France
+35,Korea,Korean International Circuit,34.7333,126.417,0,Yeongam County,2010-10-24,05:00:00,2010,Yeongam%20South%20Korea
+35,Korea,Korean International Circuit,34.7333,126.417,0,Yeongam County,2011-10-16,06:00:00,2011,Yeongam%20South%20Korea
+35,Korea,Korean International Circuit,34.7333,126.417,0,Yeongam County,2012-10-14,06:00:00,2012,Yeongam%20South%20Korea
+35,Korea,Korean International Circuit,34.7333,126.417,0,Yeongam County,2013-10-06,06:00:00,2013,Yeongam%20South%20Korea
+36,Brazil,Autódromo Internacional Nelson Piquet,-22.9756,-43.395,1126,Rio de Janeiro,1978-01-29,\N,1978,Rio%20de%20Janeiro%20Brazil
+36,Brazil,Autódromo Internacional Nelson Piquet,-22.9756,-43.395,1126,Rio de Janeiro,1981-03-29,\N,1981,Rio%20de%20Janeiro%20Brazil
+36,Brazil,Autódromo Internacional Nelson Piquet,-22.9756,-43.395,1126,Rio de Janeiro,1982-03-21,\N,1982,Rio%20de%20Janeiro%20Brazil
+36,Brazil,Autódromo Internacional Nelson Piquet,-22.9756,-43.395,1126,Rio de Janeiro,1983-03-13,\N,1983,Rio%20de%20Janeiro%20Brazil
+36,Brazil,Autódromo Internacional Nelson Piquet,-22.9756,-43.395,1126,Rio de Janeiro,1984-03-25,\N,1984,Rio%20de%20Janeiro%20Brazil
+36,Brazil,Autódromo Internacional Nelson Piquet,-22.9756,-43.395,1126,Rio de Janeiro,1985-04-07,\N,1985,Rio%20de%20Janeiro%20Brazil
+36,Brazil,Autódromo Internacional Nelson Piquet,-22.9756,-43.395,1126,Rio de Janeiro,1986-03-23,\N,1986,Rio%20de%20Janeiro%20Brazil
+36,Brazil,Autódromo Internacional Nelson Piquet,-22.9756,-43.395,1126,Rio de Janeiro,1987-04-12,\N,1987,Rio%20de%20Janeiro%20Brazil
+36,Brazil,Autódromo Internacional Nelson Piquet,-22.9756,-43.395,1126,Rio de Janeiro,1988-04-03,\N,1988,Rio%20de%20Janeiro%20Brazil
+36,Brazil,Autódromo Internacional Nelson Piquet,-22.9756,-43.395,1126,Rio de Janeiro,1989-03-26,\N,1989,Rio%20de%20Janeiro%20Brazil
+37,USA,Detroit Street Circuit,42.3298,-83.0401,177,Detroit,1982-06-06,\N,1982,Detroit%20USA
+37,USA,Detroit Street Circuit,42.3298,-83.0401,177,Detroit,1983-06-05,\N,1983,Detroit%20USA
+37,USA,Detroit Street Circuit,42.3298,-83.0401,177,Detroit,1984-06-24,\N,1984,Detroit%20USA
+37,USA,Detroit Street Circuit,42.3298,-83.0401,177,Detroit,1985-06-23,\N,1985,Detroit%20USA
+37,USA,Detroit Street Circuit,42.3298,-83.0401,177,Detroit,1986-06-22,\N,1986,Detroit%20USA
+37,USA,Detroit Street Circuit,42.3298,-83.0401,177,Detroit,1987-06-21,\N,1987,Detroit%20USA
+37,USA,Detroit Street Circuit,42.3298,-83.0401,177,Detroit,1988-06-19,\N,1988,Detroit%20USA
+38,UK,Brands Hatch,51.3569,0.263056,145,Kent,1970-07-18,\N,1970,Kent%20UK
+38,UK,Brands Hatch,51.3569,0.263056,145,Kent,1972-07-15,\N,1972,Kent%20UK
+38,UK,Brands Hatch,51.3569,0.263056,145,Kent,1974-07-20,\N,1974,Kent%20UK
+38,UK,Brands Hatch,51.3569,0.263056,145,Kent,1976-07-18,\N,1976,Kent%20UK
+38,UK,Brands Hatch,51.3569,0.263056,145,Kent,1978-07-16,\N,1978,Kent%20UK
+38,UK,Brands Hatch,51.3569,0.263056,145,Kent,1980-07-13,\N,1980,Kent%20UK
+38,UK,Brands Hatch,51.3569,0.263056,145,Kent,1982-07-18,\N,1982,Kent%20UK
+38,UK,Brands Hatch,51.3569,0.263056,145,Kent,1983-09-25,\N,1983,Kent%20UK
+38,UK,Brands Hatch,51.3569,0.263056,145,Kent,1984-07-22,\N,1984,Kent%20UK
+38,UK,Brands Hatch,51.3569,0.263056,145,Kent,1985-10-06,\N,1985,Kent%20UK
+38,UK,Brands Hatch,51.3569,0.263056,145,Kent,1986-07-13,\N,1986,Kent%20UK
+39,Netherlands,Circuit Park Zandvoort,52.3888,4.54092,6,Zandvoort,1970-06-21,\N,1970,Zandvoort%20Netherlands
+39,Netherlands,Circuit Park Zandvoort,52.3888,4.54092,6,Zandvoort,1971-06-20,\N,1971,Zandvoort%20Netherlands
+39,Netherlands,Circuit Park Zandvoort,52.3888,4.54092,6,Zandvoort,1973-07-29,\N,1973,Zandvoort%20Netherlands
+39,Netherlands,Circuit Park Zandvoort,52.3888,4.54092,6,Zandvoort,1974-06-23,\N,1974,Zandvoort%20Netherlands
+39,Netherlands,Circuit Park Zandvoort,52.3888,4.54092,6,Zandvoort,1975-06-22,\N,1975,Zandvoort%20Netherlands
+39,Netherlands,Circuit Park Zandvoort,52.3888,4.54092,6,Zandvoort,1976-08-29,\N,1976,Zandvoort%20Netherlands
+39,Netherlands,Circuit Park Zandvoort,52.3888,4.54092,6,Zandvoort,1977-08-28,\N,1977,Zandvoort%20Netherlands
+39,Netherlands,Circuit Park Zandvoort,52.3888,4.54092,6,Zandvoort,1978-08-27,\N,1978,Zandvoort%20Netherlands
+39,Netherlands,Circuit Park Zandvoort,52.3888,4.54092,6,Zandvoort,1979-08-26,\N,1979,Zandvoort%20Netherlands
+39,Netherlands,Circuit Park Zandvoort,52.3888,4.54092,6,Zandvoort,1980-08-31,\N,1980,Zandvoort%20Netherlands
+39,Netherlands,Circuit Park Zandvoort,52.3888,4.54092,6,Zandvoort,1981-08-30,\N,1981,Zandvoort%20Netherlands
+39,Netherlands,Circuit Park Zandvoort,52.3888,4.54092,6,Zandvoort,1982-07-03,\N,1982,Zandvoort%20Netherlands
+39,Netherlands,Circuit Park Zandvoort,52.3888,4.54092,6,Zandvoort,1983-08-28,\N,1983,Zandvoort%20Netherlands
+39,Netherlands,Circuit Park Zandvoort,52.3888,4.54092,6,Zandvoort,1984-08-26,\N,1984,Zandvoort%20Netherlands
+39,Netherlands,Circuit Park Zandvoort,52.3888,4.54092,6,Zandvoort,1985-08-25,\N,1985,Zandvoort%20Netherlands
+39,Netherlands,Circuit Park Zandvoort,52.3888,4.54092,6,Zandvoort,2021-09-05,13:00:00,2021,Zandvoort%20Netherlands
+39,Netherlands,Circuit Park Zandvoort,52.3888,4.54092,6,Zandvoort,2022-09-04,13:00:00,2022,Zandvoort%20Netherlands
+39,Netherlands,Circuit Park Zandvoort,52.3888,4.54092,6,Zandvoort,2023-08-27,13:00:00,2023,Zandvoort%20Netherlands
+39,Netherlands,Circuit Park Zandvoort,52.3888,4.54092,6,Zandvoort,2024-08-25,13:00:00,2024,Zandvoort%20Netherlands
+40,Belgium,Zolder,50.9894,5.25694,36,Heusden-Zolder,1973-05-20,\N,1973,Heusden-Zolder%20Belgium
+40,Belgium,Zolder,50.9894,5.25694,36,Heusden-Zolder,1975-05-25,\N,1975,Heusden-Zolder%20Belgium
+40,Belgium,Zolder,50.9894,5.25694,36,Heusden-Zolder,1976-05-16,\N,1976,Heusden-Zolder%20Belgium
+40,Belgium,Zolder,50.9894,5.25694,36,Heusden-Zolder,1977-06-05,\N,1977,Heusden-Zolder%20Belgium
+40,Belgium,Zolder,50.9894,5.25694,36,Heusden-Zolder,1978-05-21,\N,1978,Heusden-Zolder%20Belgium
+40,Belgium,Zolder,50.9894,5.25694,36,Heusden-Zolder,1979-05-13,\N,1979,Heusden-Zolder%20Belgium
+40,Belgium,Zolder,50.9894,5.25694,36,Heusden-Zolder,1980-05-04,\N,1980,Heusden-Zolder%20Belgium
+40,Belgium,Zolder,50.9894,5.25694,36,Heusden-Zolder,1981-05-17,\N,1981,Heusden-Zolder%20Belgium
+40,Belgium,Zolder,50.9894,5.25694,36,Heusden-Zolder,1982-05-09,\N,1982,Heusden-Zolder%20Belgium
+40,Belgium,Zolder,50.9894,5.25694,36,Heusden-Zolder,1984-04-29,\N,1984,Heusden-Zolder%20Belgium
+41,France,Dijon-Prenois,47.3625,4.89913,484,Dijon,1974-07-07,\N,1974,Dijon%20France
+41,France,Dijon-Prenois,47.3625,4.89913,484,Dijon,1977-07-03,\N,1977,Dijon%20France
+41,France,Dijon-Prenois,47.3625,4.89913,484,Dijon,1979-07-01,\N,1979,Dijon%20France
+41,France,Dijon-Prenois,47.3625,4.89913,484,Dijon,1981-07-05,\N,1981,Dijon%20France
+41,France,Dijon-Prenois,47.3625,4.89913,484,Dijon,1982-08-29,\N,1982,Dijon%20France
+41,France,Dijon-Prenois,47.3625,4.89913,484,Dijon,1984-05-20,\N,1984,Dijon%20France
+42,USA,Fair Park,32.7774,-96.7587,139,Dallas,1984-07-08,\N,1984,Dallas%20USA
+43,USA,Long Beach,33.7651,-118.189,12,California,1976-03-28,\N,1976,California%20USA
+43,USA,Long Beach,33.7651,-118.189,12,California,1977-04-03,\N,1977,California%20USA
+43,USA,Long Beach,33.7651,-118.189,12,California,1978-04-02,\N,1978,California%20USA
+43,USA,Long Beach,33.7651,-118.189,12,California,1979-04-08,\N,1979,California%20USA
+43,USA,Long Beach,33.7651,-118.189,12,California,1980-03-30,\N,1980,California%20USA
+43,USA,Long Beach,33.7651,-118.189,12,California,1981-03-15,\N,1981,California%20USA
+43,USA,Long Beach,33.7651,-118.189,12,California,1982-04-04,\N,1982,California%20USA
+43,USA,Long Beach,33.7651,-118.189,12,California,1983-03-27,\N,1983,California%20USA
+44,USA,Las Vegas Street Circuit,36.1162,-115.174,639,Nevada,1981-10-17,\N,1981,Nevada%20USA
+44,USA,Las Vegas Street Circuit,36.1162,-115.174,639,Nevada,1982-09-25,\N,1982,Nevada%20USA
+45,Spain,Jarama,40.6171,-3.58558,609,Madrid,1970-04-19,\N,1970,Madrid%20Spain
+45,Spain,Jarama,40.6171,-3.58558,609,Madrid,1972-05-01,\N,1972,Madrid%20Spain
+45,Spain,Jarama,40.6171,-3.58558,609,Madrid,1974-04-28,\N,1974,Madrid%20Spain
+45,Spain,Jarama,40.6171,-3.58558,609,Madrid,1976-05-02,\N,1976,Madrid%20Spain
+45,Spain,Jarama,40.6171,-3.58558,609,Madrid,1977-05-08,\N,1977,Madrid%20Spain
+45,Spain,Jarama,40.6171,-3.58558,609,Madrid,1978-06-04,\N,1978,Madrid%20Spain
+45,Spain,Jarama,40.6171,-3.58558,609,Madrid,1979-04-29,\N,1979,Madrid%20Spain
+45,Spain,Jarama,40.6171,-3.58558,609,Madrid,1981-06-21,\N,1981,Madrid%20Spain
+46,USA,Watkins Glen,42.3369,-76.9272,485,New York State,1970-10-04,\N,1970,New%20York%20State%20USA
+46,USA,Watkins Glen,42.3369,-76.9272,485,New York State,1971-10-03,\N,1971,New%20York%20State%20USA
+46,USA,Watkins Glen,42.3369,-76.9272,485,New York State,1972-10-08,\N,1972,New%20York%20State%20USA
+46,USA,Watkins Glen,42.3369,-76.9272,485,New York State,1973-10-07,\N,1973,New%20York%20State%20USA
+46,USA,Watkins Glen,42.3369,-76.9272,485,New York State,1974-10-06,\N,1974,New%20York%20State%20USA
+46,USA,Watkins Glen,42.3369,-76.9272,485,New York State,1975-10-05,\N,1975,New%20York%20State%20USA
+46,USA,Watkins Glen,42.3369,-76.9272,485,New York State,1976-10-10,\N,1976,New%20York%20State%20USA
+46,USA,Watkins Glen,42.3369,-76.9272,485,New York State,1977-10-02,\N,1977,New%20York%20State%20USA
+46,USA,Watkins Glen,42.3369,-76.9272,485,New York State,1978-10-01,\N,1978,New%20York%20State%20USA
+46,USA,Watkins Glen,42.3369,-76.9272,485,New York State,1979-10-07,\N,1979,New%20York%20State%20USA
+46,USA,Watkins Glen,42.3369,-76.9272,485,New York State,1980-10-05,\N,1980,New%20York%20State%20USA
+47,Sweden,Scandinavian Raceway,57.2653,13.6042,153,Anderstorp,1973-06-17,\N,1973,Anderstorp%20Sweden
+47,Sweden,Scandinavian Raceway,57.2653,13.6042,153,Anderstorp,1974-06-09,\N,1974,Anderstorp%20Sweden
+47,Sweden,Scandinavian Raceway,57.2653,13.6042,153,Anderstorp,1975-06-08,\N,1975,Anderstorp%20Sweden
+47,Sweden,Scandinavian Raceway,57.2653,13.6042,153,Anderstorp,1976-06-13,\N,1976,Anderstorp%20Sweden
+47,Sweden,Scandinavian Raceway,57.2653,13.6042,153,Anderstorp,1977-06-19,\N,1977,Anderstorp%20Sweden
+47,Sweden,Scandinavian Raceway,57.2653,13.6042,153,Anderstorp,1978-06-17,\N,1978,Anderstorp%20Sweden
+48,Canada,Mosport International Raceway,44.0481,-78.6756,332,Ontario,1971-09-19,\N,1971,Ontario%20Canada
+48,Canada,Mosport International Raceway,44.0481,-78.6756,332,Ontario,1972-09-24,\N,1972,Ontario%20Canada
+48,Canada,Mosport International Raceway,44.0481,-78.6756,332,Ontario,1973-09-23,\N,1973,Ontario%20Canada
+48,Canada,Mosport International Raceway,44.0481,-78.6756,332,Ontario,1974-09-22,\N,1974,Ontario%20Canada
+48,Canada,Mosport International Raceway,44.0481,-78.6756,332,Ontario,1976-10-03,\N,1976,Ontario%20Canada
+48,Canada,Mosport International Raceway,44.0481,-78.6756,332,Ontario,1977-10-09,\N,1977,Ontario%20Canada
+49,Spain,Montjuïc,41.3664,2.15167,79,Barcelona,1971-04-18,\N,1971,Barcelona%20Spain
+49,Spain,Montjuïc,41.3664,2.15167,79,Barcelona,1973-04-29,\N,1973,Barcelona%20Spain
+49,Spain,Montjuïc,41.3664,2.15167,79,Barcelona,1975-04-27,\N,1975,Barcelona%20Spain
+50,Belgium,Nivelles-Baulers,50.6211,4.32694,139,Brussels,1972-06-04,\N,1972,Brussels%20Belgium
+50,Belgium,Nivelles-Baulers,50.6211,4.32694,139,Brussels,1974-05-12,\N,1974,Brussels%20Belgium
+51,France,Charade Circuit,45.7472,3.03889,790,Clermont-Ferrand,1970-07-05,\N,1970,Clermont-Ferrand%20France
+51,France,Charade Circuit,45.7472,3.03889,790,Clermont-Ferrand,1972-07-02,\N,1972,Clermont-Ferrand%20France
+52,Canada,Circuit Mont-Tremblant,46.1877,-74.6099,214,Quebec,1970-09-20,\N,1970,Quebec%20Canada
+68,India,Buddh International Circuit,28.3487,77.5331,194,Uttar Pradesh,2011-10-30,09:30:00,2011,Greater%20Noida%20India
+68,India,Buddh International Circuit,28.3487,77.5331,194,Uttar Pradesh,2012-10-28,09:30:00,2012,Greater%20Noida%20India
+68,India,Buddh International Circuit,28.3487,77.5331,194,Uttar Pradesh,2013-10-27,09:30:00,2013,Greater%20Noida%20India
+69,USA,Circuit of the Americas,30.1328,-97.6411,161,Austin,2012-11-18,19:00:00,2012,Austin%20USA
+69,USA,Circuit of the Americas,30.1328,-97.6411,161,Austin,2013-11-17,19:00:00,2013,Austin%20USA
+69,USA,Circuit of the Americas,30.1328,-97.6411,161,Austin,2014-11-02,20:00:00,2014,Austin%20USA
+69,USA,Circuit of the Americas,30.1328,-97.6411,161,Austin,2015-10-25,19:00:00,2015,Austin%20USA
+69,USA,Circuit of the Americas,30.1328,-97.6411,161,Austin,2016-10-23,19:00:00,2016,Austin%20USA
+69,USA,Circuit of the Americas,30.1328,-97.6411,161,Austin,2017-10-22,19:00:00,2017,Austin%20USA
+69,USA,Circuit of the Americas,30.1328,-97.6411,161,Austin,2018-10-21,18:10:00,2018,Austin%20USA
+69,USA,Circuit of the Americas,30.1328,-97.6411,161,Austin,2019-11-03,19:10:00,2019,Austin%20USA
+69,USA,Circuit of the Americas,30.1328,-97.6411,161,Austin,2021-10-24,19:00:00,2021,Austin%20USA
+69,USA,Circuit of the Americas,30.1328,-97.6411,161,Austin,2022-10-23,19:00:00,2022,Austin%20USA
+69,USA,Circuit of the Americas,30.1328,-97.6411,161,Austin,2023-10-22,19:00:00,2023,Austin%20USA
+69,USA,Circuit of the Americas,30.1328,-97.6411,161,Austin,2024-10-20,19:00:00,2024,Austin%20USA
+70,Austria,Red Bull Ring,47.2197,14.7647,678,Spielberg,1970-08-16,\N,1970,Spielberg%20Austria
+70,Austria,Red Bull Ring,47.2197,14.7647,678,Spielberg,1971-08-15,\N,1971,Spielberg%20Austria
+70,Austria,Red Bull Ring,47.2197,14.7647,678,Spielberg,1972-08-13,\N,1972,Spielberg%20Austria
+70,Austria,Red Bull Ring,47.2197,14.7647,678,Spielberg,1973-08-19,\N,1973,Spielberg%20Austria
+70,Austria,Red Bull Ring,47.2197,14.7647,678,Spielberg,1974-08-18,\N,1974,Spielberg%20Austria
+70,Austria,Red Bull Ring,47.2197,14.7647,678,Spielberg,1975-08-17,\N,1975,Spielberg%20Austria
+70,Austria,Red Bull Ring,47.2197,14.7647,678,Spielberg,1976-08-15,\N,1976,Spielberg%20Austria
+70,Austria,Red Bull Ring,47.2197,14.7647,678,Spielberg,1977-08-14,\N,1977,Spielberg%20Austria
+70,Austria,Red Bull Ring,47.2197,14.7647,678,Spielberg,1978-08-13,\N,1978,Spielberg%20Austria
+70,Austria,Red Bull Ring,47.2197,14.7647,678,Spielberg,1979-08-12,\N,1979,Spielberg%20Austria
+70,Austria,Red Bull Ring,47.2197,14.7647,678,Spielberg,1980-08-17,\N,1980,Spielberg%20Austria
+70,Austria,Red Bull Ring,47.2197,14.7647,678,Spielberg,1981-08-16,\N,1981,Spielberg%20Austria
+70,Austria,Red Bull Ring,47.2197,14.7647,678,Spielberg,1982-08-15,\N,1982,Spielberg%20Austria
+70,Austria,Red Bull Ring,47.2197,14.7647,678,Spielberg,1983-08-14,\N,1983,Spielberg%20Austria
+70,Austria,Red Bull Ring,47.2197,14.7647,678,Spielberg,1984-08-19,\N,1984,Spielberg%20Austria
+70,Austria,Red Bull Ring,47.2197,14.7647,678,Spielberg,1985-08-18,\N,1985,Spielberg%20Austria
+70,Austria,Red Bull Ring,47.2197,14.7647,678,Spielberg,1986-08-17,\N,1986,Spielberg%20Austria
+70,Austria,Red Bull Ring,47.2197,14.7647,678,Spielberg,1987-08-16,\N,1987,Spielberg%20Austria
+70,Austria,Red Bull Ring,47.2197,14.7647,678,Spielberg,1997-09-21,\N,1997,Spielberg%20Austria
+70,Austria,Red Bull Ring,47.2197,14.7647,678,Spielberg,1998-07-26,\N,1998,Spielberg%20Austria
+70,Austria,Red Bull Ring,47.2197,14.7647,678,Spielberg,1999-07-25,\N,1999,Spielberg%20Austria
+70,Austria,Red Bull Ring,47.2197,14.7647,678,Spielberg,2000-07-16,\N,2000,Spielberg%20Austria
+70,Austria,Red Bull Ring,47.2197,14.7647,678,Spielberg,2001-05-13,\N,2001,Spielberg%20Austria
+70,Austria,Red Bull Ring,47.2197,14.7647,678,Spielberg,2002-05-12,\N,2002,Spielberg%20Austria
+70,Austria,Red Bull Ring,47.2197,14.7647,678,Spielberg,2003-05-18,\N,2003,Spielberg%20Austria
+70,Austria,Red Bull Ring,47.2197,14.7647,678,Spielberg,2014-06-22,12:00:00,2014,Spielberg%20Austria
+70,Austria,Red Bull Ring,47.2197,14.7647,678,Spielberg,2015-06-21,12:00:00,2015,Spielberg%20Austria
+70,Austria,Red Bull Ring,47.2197,14.7647,678,Spielberg,2016-07-03,12:00:00,2016,Spielberg%20Austria
+70,Austria,Red Bull Ring,47.2197,14.7647,678,Spielberg,2017-07-09,12:00:00,2017,Spielberg%20Austria
+70,Austria,Red Bull Ring,47.2197,14.7647,678,Spielberg,2018-07-01,13:10:00,2018,Spielberg%20Austria
+70,Austria,Red Bull Ring,47.2197,14.7647,678,Spielberg,2019-06-30,13:10:00,2019,Spielberg%20Austria
+70,Austria,Red Bull Ring,47.2197,14.7647,678,Spielberg,2020-07-05,13:10:00,2020,Spielberg%20Austria
+70,Austria,Red Bull Ring,47.2197,14.7647,678,Spielberg,2020-07-12,13:10:00,2020,Spielberg%20Austria
+70,Austria,Red Bull Ring,47.2197,14.7647,678,Spielberg,2021-06-27,13:00:00,2021,Spielberg%20Austria
+70,Austria,Red Bull Ring,47.2197,14.7647,678,Spielberg,2021-07-04,13:00:00,2021,Spielberg%20Austria
+70,Austria,Red Bull Ring,47.2197,14.7647,678,Spielberg,2022-07-10,13:00:00,2022,Spielberg%20Austria
+70,Austria,Red Bull Ring,47.2197,14.7647,678,Spielberg,2023-07-02,13:00:00,2023,Spielberg%20Austria
+70,Austria,Red Bull Ring,47.2197,14.7647,678,Spielberg,2024-06-30,13:00:00,2024,Spielberg%20Austria
+71,Russia,Sochi Autodrom,43.4057,39.9578,2,Sochi,2014-10-12,11:00:00,2014,Sochi%20Russia
+71,Russia,Sochi Autodrom,43.4057,39.9578,2,Sochi,2015-10-11,11:00:00,2015,Sochi%20Russia
+71,Russia,Sochi Autodrom,43.4057,39.9578,2,Sochi,2016-05-01,12:00:00,2016,Sochi%20Russia
+71,Russia,Sochi Autodrom,43.4057,39.9578,2,Sochi,2017-04-30,12:00:00,2017,Sochi%20Russia
+71,Russia,Sochi Autodrom,43.4057,39.9578,2,Sochi,2018-09-30,11:10:00,2018,Sochi%20Russia
+71,Russia,Sochi Autodrom,43.4057,39.9578,2,Sochi,2019-09-29,11:10:00,2019,Sochi%20Russia
+71,Russia,Sochi Autodrom,43.4057,39.9578,2,Sochi,2020-09-27,11:10:00,2020,Sochi%20Russia
+71,Russia,Sochi Autodrom,43.4057,39.9578,2,Sochi,2021-09-26,12:00:00,2021,Sochi%20Russia
+73,Azerbaijan,Baku City Circuit,40.3725,49.8533,-7,Baku,2016-06-19,13:00:00,2016,Baku%20Azerbaijan
+73,Azerbaijan,Baku City Circuit,40.3725,49.8533,-7,Baku,2017-06-25,13:00:00,2017,Baku%20Azerbaijan
+73,Azerbaijan,Baku City Circuit,40.3725,49.8533,-7,Baku,2018-04-29,12:10:00,2018,Baku%20Azerbaijan
+73,Azerbaijan,Baku City Circuit,40.3725,49.8533,-7,Baku,2019-04-28,12:10:00,2019,Baku%20Azerbaijan
+73,Azerbaijan,Baku City Circuit,40.3725,49.8533,-7,Baku,2021-06-06,12:00:00,2021,Baku%20Azerbaijan
+73,Azerbaijan,Baku City Circuit,40.3725,49.8533,-7,Baku,2022-06-12,11:00:00,2022,Baku%20Azerbaijan
+73,Azerbaijan,Baku City Circuit,40.3725,49.8533,-7,Baku,2023-04-30,11:00:00,2023,Baku%20Azerbaijan
+73,Azerbaijan,Baku City Circuit,40.3725,49.8533,-7,Baku,2024-09-15,11:00:00,2024,Baku%20Azerbaijan
+75,Portugal,Autódromo Internacional do Algarve,37.227,-8.6267,108,Portimão,2020-10-25,12:10:00,2020,Portimão%20Portugal
+75,Portugal,Autódromo Internacional do Algarve,37.227,-8.6267,108,Portimão,2021-05-02,14:00:00,2021,Portimão%20Portugal
+76,Italy,Autodromo Internazionale del Mugello,43.9975,11.3719,255,Mugello,2020-09-13,13:10:00,2020,Mugello%20Italy
+77,Saudi Arabia,Jeddah Corniche Circuit,21.6319,39.1044,15,Jeddah,2021-12-05,17:30:00,2021,Jeddah%20Saudi%20Arabia
+77,Saudi Arabia,Jeddah Corniche Circuit,21.6319,39.1044,15,Jeddah,2022-03-27,17:00:00,2022,Jeddah%20Saudi%20Arabia
+77,Saudi Arabia,Jeddah Corniche Circuit,21.6319,39.1044,15,Jeddah,2023-03-19,17:00:00,2023,Jeddah%20Saudi%20Arabia
+77,Saudi Arabia,Jeddah Corniche Circuit,21.6319,39.1044,15,Jeddah,2024-03-09,17:00:00,2024,Jeddah%20Saudi%20Arabia
+78,Qatar,Losail International Circuit,25.49,51.4542,12,Al Daayen,2021-11-21,14:00:00,2021,Al%20Daayen%20Qatar
+78,Qatar,Losail International Circuit,25.49,51.4542,12,Al Daayen,2023-10-08,17:00:00,2023,Al%20Daayen%20Qatar
+78,Qatar,Losail International Circuit,25.49,51.4542,12,Al Daayen,2024-12-01,17:00:00,2024,Al%20Daayen%20Qatar
+79,USA,Miami International Autodrome,25.9581,-80.2389,0,Miami,2022-05-08,19:30:00,2022,Miami%20USA
+79,USA,Miami International Autodrome,25.9581,-80.2389,0,Miami,2023-05-07,19:30:00,2023,Miami%20USA
+79,USA,Miami International Autodrome,25.9581,-80.2389,0,Miami,2024-05-05,20:00:00,2024,Miami%20USA
+80,United States,Las Vegas Strip Street Circuit,36.1147,-115.173,642,Las Vegas,2023-11-19,06:00:00,2023,Las%20Vegas%20United%20States
+80,United States,Las Vegas Strip Street Circuit,36.1147,-115.173,642,Las Vegas,2024-11-23,06:00:00,2024,Las%20Vegas%20United%20States

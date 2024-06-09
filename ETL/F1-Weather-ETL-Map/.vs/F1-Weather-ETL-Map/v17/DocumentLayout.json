@@ -1,0 +1,64 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ishii\\Documents\\Formula-1-And-Weather-Data-Engineering-Project\\ETL\\F1-Weather-ETL-Map\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11F13A7B-9F9C-4529-9609-96457119AF95}|F1-Weather-ETL-Map.dtproj|C:\\Users\\ishii\\Documents\\Formula-1-And-Weather-Data-Engineering-Project\\ETL\\F1-Weather-ETL-Map\\Package.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{11F13A7B-9F9C-4529-9609-96457119AF95}|F1-Weather-ETL-Map.dtproj|solutionrelative:Package.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Package.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\ishii\\Documents\\Formula-1-And-Weather-Data-Engineering-Project\\ETL\\F1-Weather-ETL-Map\\Package.dtsx",
+              "RelativeDocumentMoniker": "Package.dtsx",
+              "ToolTip": "C:\\Users\\ishii\\Documents\\Formula-1-And-Weather-Data-Engineering-Project\\ETL\\F1-Weather-ETL-Map\\Package.dtsx [Design]",
+              "RelativeToolTip": "Package.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASbSURBVFhHxVZbbFRVFF1tpxQJRiJVmzQVY3h9\u002BGHS\u002BCUQmhhbEQiKoiSICpFWSqQxNiIxNo0kBj\u002BaxhjiGN\u002BtiiZGjR/yATYhwRhBQyIt/SC\u002BKA/pWOw4w4gzc6977XNuuWdet5UPVrLnPO65e629zz5nLq4pfN\u002Bvsl3FwJdHfM/z4OXzyPs\u002BZCDma9/z8tr3wn2u9T3kpc\u002B1ebEL43\u002B2v9a7/U3rMhKOgPc/P\u002BxvXrfcjiAORSQFqAgZyw/7ubzp51SEjyxbmfv4sy\u002BQmLiIi5PJ9oH\u002BXdMSUW1bBSMKo0aexmJVqJtVjTl11bh\u002BTg3mzY2h/oYYbrmxFo31s9B0cx1ub5iNhY2zRZiHnq7H\u002BGp89RMvbFMnEXAE5Bny/4QkSLfm7PhfePzhNZyKr3hwR6SIihmYCfgqA7gwnsQfiSTubVnJ6fhd922tKOKqBTByLUIpThbhrj196H/jLQzs/xSZTIZL4vwpB6cIXx844HduarWjaAgnKNmXghQNKuSrg8cwMZlCMpVmMeLQ0BCOfv22wxOGmwE5fjOBkgupnhA9nj7aWpqxYe0KbHmkDSuXLzMLKyBmWwVTGMbz75ywPRd7t9yh98Hud4ftjIvu9UvFFwPiBlVGUQ0wlWFkm5Y6RnBNsK7Uc7039M7QYUUUHENzw0WBqa5Ur7yUNANyS0ahQEBxBkqBxccoy4H1EGQhCq4AbsE00kbnlYQqOTNQaZFFQQZy4th9qfb0qGOEVryNruRzSz6dYJzz\u002BVLfoN/d8SjmXldjZ\u002BxZtxFr5GIkCKIMUh2M\u002BUfFYmb/\u002BOgY\u002Bvr3Tv8eMFtwJQNKzminyNnafjAXIqcFkQf9KDgC9DtAXtR\u002BQK7OTKt9Est8Tjqs9pw\u002BtyY/JM3xXX1HJiNQlAE6Z\u002BS823e/N4wXPxhGz\u002BAIej8awcv7R/DKJyeVWIm4Xlo1ClJx8m4oK1EoKEJxKM5JHogvfdFwrW2FSAXxHc4JOT9UTNZETQTcLRAPmjqmkGkog6DodJ38mGityZyaiizvI4BTnTt79vnPdW7FTfNq1VnvhyNTUQfgUetcvciQqZBgO4DBoZ/tqvJ4dd\u002B3wA/tU7wFNWDSFlg5MP2mDqqMECuCeOb\u002B27Bj1QJsb1uAjtZb8dQ9TXiypREb727Amjvn65owCgSYUxD8tRKlLxqmmmZuTlML\u002Bkg\u002BUHz8m/UwmbqMc\u002BNpnBqbxE\u002BnJvDjaAIHvhszi0Jwa0CPoZCzmIS/e/0SPPvAEuxcu1jSvhhPr1qEba0LVZwWIY3rdWwEU1A6k0XqUhZJsb/TYtJynJL5QhRkwB4r8XWFgGedogzJ1HMbNcWaz3Pjg2JKkQdtIVwB4tGklK25E0yEMkdSbo2SszXP9NKxIgjOlyKnpTM5XRNGkQAl1Wg5ppGIkdnsyJiC9CakEH1uLPBRipxz6X\u002BKBTjHcGPnHr\u002B7qwu/nj5vnDM6S0xSnRMTTiHmPC8t03LdmUwNNi1rwNGTiSJyZuVc4hIOfX/GOYaOgA0dvf4vv/1uRzNHy0NdWNdcj2\u002BOnVXiZCgTLMDM5TyOHD9fXsBVozlu9iEKIQHXGMB/2Ro\u002B2ed7WSEAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-06-08T17:31:00.813Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{28836128-fc2c-11d2-a433-00c04f72d18a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

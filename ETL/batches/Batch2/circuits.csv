@@ -1,0 +1,27 @@
+circuitId,circuitRef,name,location,country,lat,lng,alt,url
+1,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,http://en.wikipedia.org/wiki/Melbourne_Grand_Prix_Circuit
+2,sepang,Sepang International Circuit,Kuala Lumpur,Malaysia,2.76083,101.738,18,http://en.wikipedia.org/wiki/Sepang_International_Circuit
+3,bahrain,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106,7,http://en.wikipedia.org/wiki/Bahrain_International_Circuit
+4,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,109,http://en.wikipedia.org/wiki/Circuit_de_Barcelona-Catalunya
+5,istanbul,Istanbul Park,Istanbul,Turkey,40.9517,29.405,130,http://en.wikipedia.org/wiki/Istanbul_Park
+6,monaco,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,7,http://en.wikipedia.org/wiki/Circuit_de_Monaco
+7,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,13,http://en.wikipedia.org/wiki/Circuit_Gilles_Villeneuve
+8,magny_cours,Circuit de Nevers Magny-Cours,Magny Cours,France,46.8642,3.16361,228,http://en.wikipedia.org/wiki/Circuit_de_Nevers_Magny-Cours
+9,silverstone,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,153,http://en.wikipedia.org/wiki/Silverstone_Circuit
+10,hockenheimring,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,103,http://en.wikipedia.org/wiki/Hockenheimring
+11,hungaroring,Hungaroring,Budapest,Hungary,47.5789,19.2486,264,http://en.wikipedia.org/wiki/Hungaroring
+12,valencia,Valencia Street Circuit,Valencia,Spain,39.4589,-0.331667,4,http://en.wikipedia.org/wiki/Valencia_Street_Circuit
+13,spa,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,401,http://en.wikipedia.org/wiki/Circuit_de_Spa-Francorchamps
+14,monza,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,162,http://en.wikipedia.org/wiki/Autodromo_Nazionale_Monza
+15,marina_bay,Marina Bay Street Circuit,Marina Bay,Singapore,1.2914,103.864,18,http://en.wikipedia.org/wiki/Marina_Bay_Street_Circuit
+16,fuji,Fuji Speedway,Oyama,Japan,35.3717,138.927,583,http://en.wikipedia.org/wiki/Fuji_Speedway
+17,shanghai,Shanghai International Circuit,Shanghai,China,31.3389,121.22,5,http://en.wikipedia.org/wiki/Shanghai_International_Circuit
+18,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Jos%C3%A9_Carlos_Pace
+19,indianapolis,Indianapolis Motor Speedway,Indianapolis,USA,39.795,-86.2347,223,http://en.wikipedia.org/wiki/Indianapolis_Motor_Speedway
+20,nurburgring,Nürburgring,Nürburg,Germany,50.3356,6.9475,578,http://en.wikipedia.org/wiki/N%C3%BCrburgring
+21,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,37,http://en.wikipedia.org/wiki/Autodromo_Enzo_e_Dino_Ferrari
+22,suzuka,Suzuka Circuit,Suzuka,Japan,34.8431,136.541,45,http://en.wikipedia.org/wiki/Suzuka_Circuit
+24,yas_marina,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031,3,http://en.wikipedia.org/wiki/Yas_Marina_Circuit
+35,yeongam,Korean International Circuit,Yeongam County,Korea,34.7333,126.417,0,http://en.wikipedia.org/wiki/Korean_International_Circuit
+68,buddh,Buddh International Circuit,Uttar Pradesh,India,28.3487,77.5331,194,http://en.wikipedia.org/wiki/Buddh_International_Circuit
+70,red_bull_ring,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,678,http://en.wikipedia.org/wiki/Red_Bull_Ring
