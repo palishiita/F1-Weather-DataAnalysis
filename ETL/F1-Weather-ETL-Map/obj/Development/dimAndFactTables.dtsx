@@ -1,0 +1,176 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="6/10/2024 1:11:09 AM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="ISHIITA_PAL"
+  DTS:CreatorName="ISHIITA_PAL\ishii"
+  DTS:DTSID="{A3609E04-F94A-4BA8-95AC-DE11FB275757}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="16.0.5397.1"
+  DTS:LocaleID="1033"
+  DTS:ObjectName="dimAndFactTables"
+  DTS:PackageType="5"
+  DTS:VersionBuild="2"
+  DTS:VersionGUID="{1DF47976-5B3C-4E33-AF1C-4AA9D90213A4}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:ConnectionManagers>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[ISHIITA_PAL\SQLEXPRESS.RaceDb]"
+      DTS:CreationName="OLEDB"
+      DTS:DTSID="{E1FD8752-3826-4DAE-A400-75FD7512DE57}"
+      DTS:ObjectName="ISHIITA_PAL\SQLEXPRESS.RaceDb">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectRetryCount="1"
+          DTS:ConnectRetryInterval="5"
+          DTS:ConnectionString="Data Source=ISHIITA_PAL\SQLEXPRESS;Initial Catalog=RaceDb;Provider=SQLOLEDB.1;Integrated Security=SSPI;Application Name=SSIS-dimAndFactTables-{E1FD8752-3826-4DAE-A400-75FD7512DE57}ISHIITA_PAL\SQLEXPRESS.RaceDb;Auto Translate=False;" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+  </DTS:ConnectionManagers>
+  <DTS:Variables />
+  <DTS:Executables>
+    <DTS:Executable
+      DTS:refId="Package\Create dim tables"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{66e08b71-8cdf-408e-a64e-ec09b5013899}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Create dim tables"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2022; © 2022 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="0">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{E1FD8752-3826-4DAE-A400-75FD7512DE57}"
+          SQLTask:SqlStatementSource="CREATE TABLE DimDate (&#xA;    Date DATE PRIMARY KEY,&#xA;    Year INT,&#xA;    Month INT,&#xA;    MonthName VARCHAR(20),&#xA;    Day INT&#xA;);&#xA;&#xA;CREATE TABLE DimCircuit (&#xA;    CircuitID INT PRIMARY KEY,&#xA;    CircuitRef VARCHAR(50),&#xA;    Name VARCHAR(100),&#xA;    City VARCHAR(50),&#xA;    Country VARCHAR(50)&#xA;);&#xA;&#xA;CREATE TABLE DimConstructor (&#xA;    ConstructorID INT PRIMARY KEY,&#xA;    ConstructorRef VARCHAR(50),&#xA;    Name VARCHAR(100),&#xA;    Nationality VARCHAR(50)&#xA;);&#xA;&#xA;CREATE TABLE DimDriver (&#xA;    DriverID INT PRIMARY KEY,&#xA;    DriverRef VARCHAR(50),&#xA;    Number VARCHAR(10),&#xA;    Code VARCHAR(10),&#xA;    Forename VARCHAR(50),&#xA;    Surname VARCHAR(50),&#xA;    DOB DATE,&#xA;    Nationality VARCHAR(50)&#xA;);&#xA;&#xA;CREATE TABLE DimRace (&#xA;    RaceID INT PRIMARY KEY,&#xA;    RaceRound INT,&#xA;    RaceDate DATE&#xA;);&#xA;&#xA;CREATE TABLE DimWeather (&#xA;    WeatherID INT PRIMARY KEY,&#xA;    TempMax FLOAT,&#xA;    TempMin FLOAT,&#xA;    TempAvg FLOAT,&#xA;    FeelsLikeMax FLOAT,&#xA;    FeelsLikeMin FLOAT,&#xA;    FeelsLikeAvg FLOAT,&#xA;    DewPoint FLOAT,&#xA;    Humidity FLOAT,&#xA;    Precipitation FLOAT,&#xA;    PrecipitationCover FLOAT,&#xA;    SnowDepth FLOAT,&#xA;    WindGust FLOAT,&#xA;    WindSpeed FLOAT,&#xA;    WindDirection INT,&#xA;    SeaLevelPressure FLOAT,&#xA;    Visibility FLOAT,&#xA;    Description VARCHAR(255)&#xA;);&#xA;" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Create Fact Table"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{3906bd1c-5290-4a30-9b8e-c690e3ff8b41}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Create Fact Table"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2022; © 2022 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="0">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{E1FD8752-3826-4DAE-A400-75FD7512DE57}"
+          SQLTask:SqlStatementSource="&#xA;-- Fact Table&#xA;CREATE TABLE FactRacePerformance (&#xA;    RacePerformanceID INT PRIMARY KEY,&#xA;    Date DATE,&#xA;    CircuitID INT,&#xA;    RaceID INT,&#xA;    ConstructorID INT,&#xA;    DriverID INT,&#xA;    WeatherID INT,&#xA;    Laps INT,&#xA;    FastestLap INT,&#xA;    FastestLapRank INT,&#xA;    FastestLapSpeed FLOAT,&#xA;    RaceTime INT,&#xA;    AvgLapTime FLOAT,&#xA;    MinLapTime INT,&#xA;    MaxLapTime INT,&#xA;    PitStopCount INT,&#xA;    AvgPitStopTime FLOAT,&#xA;    MaxPitStopTime INT,&#xA;    MinPitStopTime INT,&#xA;    ConstructorPosition INT,&#xA;    DriverPosition INT,&#xA;    Status VARCHAR(255),&#xA;    FOREIGN KEY (Date) REFERENCES DimDate(Date),&#xA;    FOREIGN KEY (CircuitID) REFERENCES DimCircuit(CircuitID),&#xA;    FOREIGN KEY (RaceID) REFERENCES DimRace(RaceID),&#xA;    FOREIGN KEY (ConstructorID) REFERENCES DimConstructor(ConstructorID),&#xA;    FOREIGN KEY (DriverID) REFERENCES DimDriver(DriverID),&#xA;    FOREIGN KEY (WeatherID) REFERENCES DimWeather(WeatherID)&#xA;);" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\DROP TABLES"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{42b7019f-8a19-4dca-8bcd-647fd6daf1a8}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="DROP TABLES"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2022; © 2022 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="0">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{E1FD8752-3826-4DAE-A400-75FD7512DE57}"
+          SQLTask:SqlStatementSource="DROP TABLE IF EXISTS  FactRacePerformance;&#xA;DROP TABLE IF EXISTS DimRace;&#xA;DROP TABLE IF EXISTS DimCircuit;&#xA;DROP TABLE IF EXISTS DimDriver;&#xA;DROP TABLE IF EXISTS DimConstructor;&#xA;DROP TABLE IF EXISTS DimWeather;&#xA;DROP TABLE IF EXISTS DimDate;" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+  </DTS:Executables>
+  <DTS:PrecedenceConstraints>
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint]"
+      DTS:CreationName=""
+      DTS:DTSID="{c3e62eb4-fc4d-4513-8bd6-03eaa7936dd3}"
+      DTS:From="Package\DROP TABLES"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint"
+      DTS:To="Package\Create dim tables" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint 1]"
+      DTS:CreationName=""
+      DTS:DTSID="{e0a81f4f-8e9e-43a4-a3c5-3ac4373d14b5}"
+      DTS:From="Package\Create dim tables"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint 1"
+      DTS:To="Package\Create Fact Table" />
+  </DTS:PrecedenceConstraints>
+  <DTS:DesignTimeProperties><![CDATA[<?xml version="1.0"?>
+<!--This CDATA section contains the layout information of the package. The section includes information such as (x,y) coordinates, width, and height.-->
+<!--If you manually edit this section and make a mistake, you can delete it. -->
+<!--The package will still be able to load normally but the previous layout information will be lost and the designer will automatically re-arrange the elements on the design surface.-->
+<Objects
+  Version="8">
+  <!--Each node below will contain properties that do not affect runtime behavior.-->
+  <Package
+    design-time-name="Package">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        <NodeLayout
+          Size="164,42.5"
+          Id="Package\Create dim tables"
+          TopLeft="299.749989997596,146.599996156693" />
+        <NodeLayout
+          Size="162.5,42.5"
+          Id="Package\Create Fact Table"
+          TopLeft="298.624989578501,235.499991321564" />
+        <NodeLayout
+          Size="146.5,42.5"
+          Id="Package\DROP TABLES"
+          TopLeft="305.12498879619,62.299999628067" />
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint]"
+          TopLeft="380.062489396893,104.799999628067">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,41.7999965286256"
+              Start="0,0"
+              End="0,34.2999965286256">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,34.2999965286256" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 1]"
+          TopLeft="380.812489788048,189.099996156693">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,46.3999951648714"
+              Start="0,0"
+              End="0,38.8999951648714">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,38.8999951648714" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </Package>
+</Objects>]]></DTS:DesignTimeProperties>
+</DTS:Executable>
