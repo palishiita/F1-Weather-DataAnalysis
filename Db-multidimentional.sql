@@ -1,5 +1,4 @@
--- Database
-CREATE DATABASE RaceDb;
+-- DIM TABLES AND FACT TABLE
 
 -- DimDate table
 CREATE TABLE DimDate (
@@ -50,21 +49,55 @@ CREATE TABLE DimRace (
 -- DimWeather
 CREATE TABLE DimWeather (
     WeatherID INT PRIMARY KEY,
-    TempMax FLOAT,           -- 캜
-    TempMin FLOAT,           -- 캜
-    TempAvg FLOAT,           -- 캜
-    FeelsLikeMax FLOAT,      -- 캜
-    FeelsLikeMin FLOAT,      -- 캜
-    FeelsLikeAvg FLOAT,      -- 캜
-    DewPoint FLOAT,          -- 캜
+    TempMax FLOAT,           -- 째C
+    TempMin FLOAT,           -- 째C
+    TempAvg FLOAT,           -- 째C
+    FeelsLikeMax FLOAT,      -- 째C
+    FeelsLikeMin FLOAT,      -- 째C
+    FeelsLikeAvg FLOAT,      -- 째C
+    DewPoint FLOAT,          -- 째C
     Humidity FLOAT,          -- %
     Precipitation FLOAT,     -- mm
     PrecipitationCover FLOAT,-- %
     SnowDepth FLOAT,         -- cm
     WindGust FLOAT,          -- km/h
     WindSpeed FLOAT,         -- km/h
-    WindDirection INT,       -- �
+    WindDirection INT,       -- 째
     SeaLevelPressure FLOAT,  -- hPa
     Visibility FLOAT,        -- km
     Description VARCHAR(255) -- text
 );
+
+
+-- FactRacePerformance 
+CREATE TABLE FactRacePerformance (
+    racePerformanceId INT PRIMARY KEY,
+    raceId INT,
+    driverId INT,
+    constructorId INT,
+    weatherId INT,
+    circuitId INT,
+    date DATE,
+    laps INT,
+    fastestLap INT,
+    fastestLapRank INT,
+    fastestLapSpeed FLOAT,
+    raceTime INT,
+    avgLapTime FLOAT,
+    minLapTime INT,
+    maxLapTime INT,
+    pitStopCount INT,
+    avgPitStopTime FLOAT,
+    maxPitStopTime INT,
+    minPitStopTime INT,
+    constructorPosition INT,
+    driverPosition INT,
+    status VARCHAR(255),
+    FOREIGN KEY (date) REFERENCES DimDate(Date),
+    FOREIGN KEY (raceId) REFERENCES DimRace(RaceID),
+    FOREIGN KEY (driverId) REFERENCES DimDriver(DriverID),
+    FOREIGN KEY (constructorId) REFERENCES DimConstructor(ConstructorID),
+    FOREIGN KEY (weatherId) REFERENCES DimWeather(WeatherID),
+    FOREIGN KEY (circuitId) REFERENCES DimCircuit(CircuitID)
+);
+
